@@ -13,7 +13,7 @@
 
 > ⚠️ **Note:** First load may take 15–30 seconds as the app wakes up from inactivity (free tier). Refresh if needed!
 
-This project is an end-to-end rental market analytics and price prediction tool for Abuja, Nigeria's Federal Capital Territory. Renters, investors, and property professionals can explore median rent prices across Abuja Municipal Area Council(AMAC) districts, discover pricing patterns by property type and bedroom count, and get data-driven rent estimates through a trained machine learning model — all from a single interactive Streamlit dashboard.
+This project is an end-to-end rental market analytics and price prediction tool for Abuja Municipal Area Council(AMAC), the high-demand political and economic hub of Nigeria's capital city. Renters, investors, and property professionals can explore median rent prices across Abuja Municipal Area Council(AMAC) districts, discover pricing patterns by property type and bedroom count, and get data-driven rent estimates through a trained machine learning model all from a single interactive Streamlit dashboard.
 
 ---
 
