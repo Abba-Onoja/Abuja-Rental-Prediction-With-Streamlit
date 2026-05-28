@@ -8,17 +8,17 @@ from pathlib import Path
 SCRIPT_DIR = Path(__file__).resolve().parent
 BASE_DIR = SCRIPT_DIR.parent
 DATA_DIR = BASE_DIR / "data" / "raw"
-OUTPUT_FILE = DATA_DIR / "raw_listings_npc.csv"
-DATA_DIR.mkdir(parents=True, exist_ok=True)
+OUTPUT_FILE = DATA_DIR / "raw_listings_ppro.csv"
 
-base_url = "https://nigeriapropertycentre.com/for-rent/abuja?page="
+base_url = "https://propertypro.ng/property-for-rent/in/abuja?page=1"
+
+
+all_listings = []
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 }
 
-all_listings = []
-
-for page in range(1, 237):
+for page in range(1, 99):
     print(page)
     url = base_url + str(page)
 
@@ -28,24 +28,16 @@ for page in range(1, 237):
         continue
 
     soup = BeautifulSoup(response.text, "html.parser")
-    listings = soup.select(".wp-block-body")
+    listings = soup.select(".property-listing")
 
     if not listings:
         break
 
     for house in listings:
         try:
-            prop_type = house.select(".content-title")
-            property_type = prop_type[0].text.strip() if prop_type else "N/A"
-
-            init_price = house.select(".price")
-            if len(init_price) >= 2:
-                price = init_price[0].text + init_price[1].text
-            else:
-                price = "N/A"
-
-            address = house.select(".voffset-bottom-10")
-            location = address[0].text.strip() if address else "N/A"
+            property_type = house.find('div', class_ = 'pl-title').find_all('a')[0].text.strip()
+            price = house.find('div', class_ = 'pl-price').find('h3').text.strip()
+            location = house.find('div', class_ = 'pl-title').find("p").text.strip()
 
             all_listings.append({
                 "Property Type": property_type,

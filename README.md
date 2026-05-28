@@ -6,10 +6,10 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-orange)](https://scikit-learn.org/)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-green)](https://www.crummy.com/software/BeautifulSoup/)
 
-<!-- Replace with actual demo GIF once app is deployed -->
-> 📸 **Screenshot / GIF placeholder** — add `screenshots/demo.gif` once the app is running.
+<!-- Replace with actual demo GIF -->
+> 📸 **Screenshot / GIF placeholder** — add `screenshots/demo.gif`.
 
-### Live Demo: [Abuja Rental Market Prediction](#) *(placeholder — update after deployment)*
+### Live Demo: [Abuja Rental Market Prediction](#) *(placeholder)*
 
 > ⚠️ **Note:** First load may take 15–30 seconds as the app wakes up from inactivity (free tier). Refresh if needed!
 
@@ -131,8 +131,8 @@ Abuja-Rental-Market-Prediction-With-Streamlit/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/abuja-rental-prediction.git
-cd abuja-rental-prediction
+git clone https://github.com/Abba-Onoja/Abuja-Rental-Prediction-With-Streamlit.git
+cd Abuja-Rental-Prediction-With-Streamlit
 ```
 
 ### 2. Install dependencies
@@ -147,7 +147,7 @@ pip install -r requirements.txt
 python scraper/scraper.py
 ```
 
-This writes `data/raw_listings.csv`. Set `MAX_PAGES` inside the script to control how many listing pages to collect.
+This writes `data/raw/raw_listings_npc.csv`. Set `MAX_PAGES` inside the script to control how many listing pages to collect.
 
 ### 4. Process the data and train the model
 
@@ -190,7 +190,7 @@ For full data source and field documentation, see [DATA.md](./DATA.md).
 
 ## 📸 Screenshots
 
-> 📸 **Placeholder** — replace each image path with real screenshots before publishing.
+> 📸 **Placeholder**.
 
 ### Price Predictor
 
