@@ -11,15 +11,15 @@ BASE_DIR = SCRIPT_DIR.parent
 DATA_DIR = BASE_DIR / "data" / "raw"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-OUTPUT_FILE = DATA_DIR / "ppro_abuja_rentals.csv"
+OUTPUT_FILE = DATA_DIR / "npc_abuja_rentals.csv"
 
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
-    filename='ppro_scraper_activity.log'
+    filename='npc_scraper_activity.log'
 )
 
-base_url = "https://propertypro.ng/property-for-rent/in/abuja?page={}"
+base_url = "https://nigeriapropertycentre.com/for-rent/abuja?page={}"
 
 headers = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -27,7 +27,7 @@ headers = {
     "accept-language": "en-US,en;q=0.5",
 }
 
-ppro_abuja_rentals = []
+npc_abuja_rentals = []
 
 for page in range(1, 100): 
     print(f"scraping page {page}")
@@ -45,19 +45,30 @@ for page in range(1, 100):
         response.raise_for_status()
 
         soup = BeautifulSoup(response.text, "html.parser")
-        listings = soup.select(".property-listing")
+        listings = soup.select(".wp-block-body")
 
         if not listings:
             print(f"no listings found on page {page}.")
             break
 
-        for listing in listings:
+        for house in listings:
             try:
-                prop_category = listing.find('div', class_='pl-title').find_all('a')[0].text.strip()
-                price = listing.find('div', class_='pl-price').find('h3').text.strip()
-                location = listing.find('div', class_='pl-title').find("p").text.strip()
+                
+                prop_type = house.select(".content-title")
+                prop_category = prop_type[0].text.strip() if prop_type else "N/A"
 
-                ppro_abuja_rentals.append({
+                init_price = house.select(".price")
+                if len(init_price) >= 2:
+                    price = init_price[0].text + init_price[1].text
+                else:
+                    price = "N/A"
+
+                address = house.select(".voffset-bottom-10")
+                location = address[0].text.strip()
+
+
+
+                npc_abuja_rentals.append({
                     "Property Category": prop_category,
                     "Price (Per Annum)": price,
                     "Location": location,
@@ -76,12 +87,12 @@ for page in range(1, 100):
         break
      #checkpoint, saves every ten pages
     if page % 10 == 0:
-        pd.DataFrame(ppro_abuja_rentals).to_csv(OUTPUT_FILE, index=False)
-        logging.info(f"Checkpoint saved: {len(ppro_abuja_rentals)} rows at page {page}")
+        pd.DataFrame(npc_abuja_rentals).to_csv(OUTPUT_FILE, index=False)
+        logging.info(f"Checkpoint saved: {len(npc_abuja_rentals)} rows at page {page}")
 
     time.sleep(random.uniform(3.5, 7.2))
 
-if ppro_abuja_rentals:
-    df = pd.DataFrame(ppro_abuja_rentals)
+if npc_abuja_rentals:
+    df = pd.DataFrame(npc_abuja_rentals)
     df.to_csv(OUTPUT_FILE, index=False)
     print(f"saved {len(df)} listings to {OUTPUT_FILE}")
