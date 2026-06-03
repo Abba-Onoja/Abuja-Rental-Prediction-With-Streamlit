@@ -7,4 +7,5 @@ scraper_activity.log
 
 data/raw/
 .ipynb_checkpoints/
+
 .vscode/
