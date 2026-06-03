@@ -76,6 +76,7 @@ Built as a portfolio project to demonstrate real-world web scraping, data cleani
 - A scraper module uses `requests` and `BeautifulSoup` to pull rental listings from property platforms, with `regex` handling field extraction from unstructured text
 - Raw listings are written to `data/raw_listings.csv` immediately after scraping, preserving the original data before any transformation
 - A cleaning and feature-engineering pipeline reads the raw CSV, imputes missing values, encodes categorical fields, and writes `data/clean_listings.csv`
+- Initial data contained extreme price outliers (up to ₦47B) and bedroom counts (up to 96). I implemented a domain-informed filter, capping bedrooms at 6 and price at ₦150M/annum. This reduced the Standard Deviation by 98%, creating a robust foundation for machine learning.
 - A training script reads the clean data, builds a Random Forest regressor, evaluates it on a held-out test set, and serialises the best model to `model/model.pkl`
 - The Streamlit app loads the clean CSV and the pickled model at startup and serves four pages: price predictor, EDA, market insights, and raw data browser
 
@@ -169,11 +170,10 @@ The app will open at `http://localhost:8501`.
 
 ## 📊 Data & Model Details
 
-For full data source and field documentation, see [DATA.md](./DATA.md).
 
 - Listings scraped from PropertyPro.ng, Jiji.ng, and NigeriaPropertyCentre.com
-- Fields collected: price (₦/year), location (district + area), bedrooms, bathrooms, property type, listing URL, scraped timestamp
-- Key engineered features: `price_per_bedroom`, `bath_to_bed_ratio`, `is_premium_district` (binary flag for Maitama, Asokoro, Wuse), district label encoding, property type one-hot encoding, log-transformed target
+- Fields collected: price (₦/year), location (district + area), bedrooms, property type, listing URL, scraped timestamp
+- Key engineered features: `price_per_bedroom`, `is_premium_district` (binary flag for Maitama, Asokoro, Wuse), district label encoding, property type one-hot encoding, log-transformed target
 - Baseline model: Linear Regression
 - Core model: Random Forest Regressor (200 estimators, depth 10)
 - Evaluation: MAE, RMSE, and R² reported on an 80/20 stratified split
