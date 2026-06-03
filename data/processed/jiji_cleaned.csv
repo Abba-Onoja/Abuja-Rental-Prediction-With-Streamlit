@@ -1,0 +1,935 @@
+District,Bedrooms,Price (Per Annum),Property Category,Property Type,Location,Scraped_At
+Kubwa,1,600000,Apartment,Self Contain,"Studio Apartment in Arab Road, Kubwa for rent",2026-05-30 13:25:47
+Kubwa,1,1500000,Apartment,Apartment,"1bdrm Block of Flats in Arab Road, Kubwa for rent",2026-05-30 13:25:47
+Life Camp,1,1200000,Apartment,Self Contain,"Studio Apartment in Efab City Estate, Life Camp for rent",2026-05-30 13:25:47
+Kubwa,1,1200000,Apartment,Apartment,"1bdrm Apartment in Arab Road, Kubwa for rent",2026-05-30 13:25:47
+Life Camp,2,1140000,Apartment,Apartment,Furnished 2bdrm Apartment in Life Camp for rent,2026-05-30 13:25:47
+Wuye,5,30000000,Duplex,Detached Duplex,5bdrm Duplex in Wuye for rent,2026-05-30 13:25:47
+Galadimawa,4,8000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Galadimawa for rent,2026-05-30 13:25:47
+Durumi,2,4000000,Apartment,Apartment,2bdrm Apartment in Durumi for rent,2026-05-30 13:25:47
+Life Camp,4,7000000,Duplex,Detached Duplex,4bdrm Duplex in Life Camp for rent,2026-05-30 13:25:47
+Jahi,1,5500000,Apartment,Apartment,Furnished 1bdrm Apartment in Jahi for rent,2026-05-30 13:25:47
+Jahi,3,8000000,Apartment,Apartment,"3bdrm Apartment in Nugget, Jahi for rent",2026-05-30 13:25:47
+Jabi,3,5000000,House,House,"3bdrm Bungalow in Efab City Estate, Jabi for rent",2026-05-30 13:25:47
+Maitama,3,20000000,Duplex,Terraced Duplex,3bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:25:47
+Asokoro,5,45000000,Duplex,Detached Duplex,5bdrm Duplex in Asokoro for rent,2026-05-30 13:25:47
+Lokogoma,4,5000000,Duplex,Detached Duplex,"4bdrm Duplex in Efab, Lokogoma for rent",2026-05-30 13:25:47
+Jabi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Jabi for rent,2026-05-30 13:25:47
+Jahi,1,5500000,Apartment,Apartment,Furnished 1bdrm Apartment in Jahi for rent,2026-05-30 13:25:56
+Jahi,3,8000000,Apartment,Apartment,"3bdrm Apartment in Nugget, Jahi for rent",2026-05-30 13:25:56
+Jabi,3,5000000,House,House,"3bdrm Bungalow in Efab City Estate, Jabi for rent",2026-05-30 13:25:56
+Maitama,3,20000000,Duplex,Terraced Duplex,3bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:25:56
+Asokoro,5,45000000,Duplex,Detached Duplex,5bdrm Duplex in Asokoro for rent,2026-05-30 13:25:56
+Lokogoma,4,5000000,Duplex,Detached Duplex,"4bdrm Duplex in Efab, Lokogoma for rent",2026-05-30 13:25:56
+Jabi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Jabi for rent,2026-05-30 13:25:56
+Galadimawa,5,13000000,Duplex,Detached Duplex,5bdrm Duplex in Galadimawa for rent,2026-05-30 13:25:56
+Asokoro,4,25000000,Apartment,Apartment,Furnished 4bdrm Apartment in Asokoro for rent,2026-05-30 13:25:56
+Utako,4,18000000,Duplex,Detached Duplex,4bdrm Duplex in Utako District for rent,2026-05-30 13:25:56
+Asokoro,2,15000000,Apartment,Apartment,"Furnished 2bdrm Apartment in Villa, Asokoro for rent",2026-05-30 13:25:56
+Asokoro,2,15000000,House,House,2bdrm Bungalow in Asokoro for rent,2026-05-30 13:25:56
+Asokoro,5,25000000,Duplex,Detached Duplex,5bdrm Duplex in Asokoro for rent,2026-05-30 13:25:56
+Mabushi,4,12000000,House,House,4bdrm Penthouse in Mabushi for rent,2026-05-30 13:25:56
+Maitama,5,50000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:25:56
+Jabi,4,30000000,Duplex,Detached Duplex,4bdrm Duplex in Jabi for rent,2026-05-30 13:25:56
+Durumi,2,60000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Durumi for rent,2026-05-30 13:26:04
+Asokoro,4,25000000,Apartment,Apartment,Furnished 4bdrm Apartment in Asokoro for rent,2026-05-30 13:26:04
+Jabi,3,15000000,Duplex,Detached Duplex,3bdrm Duplex in Jabi for rent,2026-05-30 13:26:04
+Gwarinpa,1,1054000,Apartment,Self Contain,Furnished Studio Apartment in Gwarinpa for rent,2026-05-30 13:26:04
+Asokoro,2,15000000,Apartment,Apartment,"Furnished 2bdrm Apartment in Villa, Asokoro for rent",2026-05-30 13:26:04
+Asokoro,2,15000000,House,House,2bdrm Bungalow in Asokoro for rent,2026-05-30 13:26:04
+Mabushi,4,12000000,House,House,4bdrm Penthouse in Mabushi for rent,2026-05-30 13:26:04
+Maitama,5,50000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:26:04
+Jabi,4,30000000,Duplex,Detached Duplex,4bdrm Duplex in Jabi for rent,2026-05-30 13:26:04
+Lokogoma,2,3999999,Apartment,Apartment,2bdrm Apartment in Lokogoma for rent,2026-05-30 13:26:04
+Gwarinpa,1,450000,Apartment,Self Contain,Furnished Studio Apartment in Gwarinpa for rent,2026-05-30 13:26:04
+Galadimawa,1,1100000,Apartment,Apartment,"1bdrm Apartment in Queen Street, Galadimawa for rent",2026-05-30 13:26:04
+Karmo,4,6000000,Duplex,Terraced Duplex,"4bdrm Townhouse / Terrace in Estate, Karmo for rent",2026-05-30 13:26:04
+Katampe,2,8000000,Apartment,Apartment,2bdrm Block of Flats in Katampe for rent,2026-05-30 13:26:04
+Gwarinpa,4,20000000,Duplex,Detached Duplex,"4bdrm Duplex in 3Rd Avenue Gwarimpa, Gwarinpa for rent",2026-05-30 13:26:04
+Maitama,4,50000000,Apartment,Apartment,4bdrm Block of Flats in Maitama for rent,2026-05-30 13:26:04
+Wuye,2,4000000,Apartment,Apartment,"Furnished 2bdrm Apartment in Auta Ibrahim Street, Wuye for rent",2026-05-30 13:26:04
+Lokogoma,1,3000000,Apartment,Apartment,1bdrm Block of Flats in Lokogoma for rent,2026-05-30 13:26:12
+Wuye,2,7000000,Apartment,Apartment,2bdrm Apartment in Wuye for rent,2026-05-30 13:26:12
+Jabi,5,25000000,Duplex,Detached Duplex,5bdrm Duplex in Jabi for rent,2026-05-30 13:26:12
+Asokoro,2,18000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Asokoro for rent,2026-05-30 13:26:12
+Gwarinpa,1,658750,Apartment,Self Contain,Furnished Studio Apartment in Gwarinpa for rent,2026-05-30 13:26:12
+Asokoro,4,40000000,Duplex,Detached Duplex,4bdrm Duplex in Asokoro for rent,2026-05-30 13:26:12
+Jabi,3,7000000,House,House,"3bdrm Bungalow in Efab City Estate, Jabi for rent",2026-05-30 13:26:12
+Gwarinpa,5,20000000,Duplex,Detached Duplex,"5bdrm Duplex in Efab Metropolis, Gwarinpa for rent",2026-05-30 13:26:12
+Utako,5,60000000,Duplex,Detached Duplex,Furnished 5bdrm Duplex in Utako for rent,2026-05-30 13:26:12
+Maitama,6,79999999,Duplex,Detached Duplex,6bdrm Duplex in Maitama for rent,2026-05-30 13:26:12
+Idu,4,6500000,Duplex,Detached Duplex,4bdrm Duplex in Idu for rent,2026-05-30 13:26:12
+Life Camp,4,16000000,Duplex,Detached Duplex,Furnished 4bdrm Duplex in Life Camp for rent,2026-05-30 13:26:12
+Maitama,9,75000000,House,House,9bdrm Mansion in Maitama for rent,2026-05-30 13:26:12
+Kubwa,1,600000,Apartment,Self Contain,"Furnished Studio Apartment in Freedom Avenue, Kubwa for rent",2026-05-30 13:26:19
+Kubwa,1,45000000,Apartment,Apartment,1bdrm Apartment in Kubwa Estate for rent,2026-05-30 13:26:19
+Maitama,3,49999999,Duplex,Detached Duplex,3bdrm Duplex in Maitama for rent,2026-05-30 13:26:19
+Gwarinpa,4,8500000,House,House,"4bdrm Bungalow in Mab Global, Gwarinpa for rent",2026-05-30 13:26:19
+Galadimawa,5,13000000,Duplex,Detached Duplex,5bdrm Duplex in Galadimawa for rent,2026-05-30 13:26:19
+Jabi,4,20000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Jabi for rent,2026-05-30 13:26:19
+Wuye,2,6500000,Apartment,Apartment,2bdrm Block of Flats in Wuye for rent,2026-05-30 13:26:19
+Maitama,5,25000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:26:19
+Jahi,3,75000000,Apartment,Apartment,3bdrm Block of Flats in Jahi for rent,2026-05-30 13:26:19
+Life Camp,2,5000000,Apartment,Apartment,2bdrm Apartment in Lifecamp for rent,2026-05-30 13:26:19
+Gwarinpa,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Qwarimpa, Gwarinpa for rent",2026-05-30 13:26:19
+Durumi,3,4000000,Apartment,Apartment,"3bdrm Apartment in Gowan Street, Durumi for rent",2026-05-30 13:26:19
+Lokogoma,2,3000000,Apartment,Apartment,"Furnished 2bdrm Apartment in City Homes, Lokogoma for rent",2026-05-30 13:26:19
+Jahi,3,10000000,Duplex,Terraced Duplex,3bdrm Townhouse / Terrace in Jahi for rent,2026-05-30 13:26:19
+Galadimawa,5,13000000,Duplex,Detached Duplex,5bdrm Duplex in Galadimawa for rent,2026-05-30 13:26:28
+Galadimawa,4,8000000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in Levi Estate, Galadimawa for rent",2026-05-30 13:26:28
+Mabushi,5,200000000,Duplex,Detached Duplex,5bdrm Duplex in Mabushi Close To for rent,2026-05-30 13:26:28
+Maitama,5,25000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:26:28
+Gwarinpa,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Qwarimpa, Gwarinpa for rent",2026-05-30 13:26:28
+Life Camp,2,5000000,Apartment,Apartment,2bdrm Apartment in Lifecamp for rent,2026-05-30 13:26:28
+Durumi,3,4000000,Apartment,Apartment,"3bdrm Apartment in Gowan Street, Durumi for rent",2026-05-30 13:26:28
+Lokogoma,2,3000000,Apartment,Apartment,"Furnished 2bdrm Apartment in City Homes, Lokogoma for rent",2026-05-30 13:26:28
+Gwarinpa,2,5000000,Apartment,Apartment,"2bdrm Block of Flats in Gwarimpa, Gwarinpa for rent",2026-05-30 13:26:28
+Mabushi,5,30000000,Duplex,Detached Duplex,5bdrm Duplex in Mabushi for rent,2026-05-30 13:26:28
+Mabushi,2,8000000,Apartment,Apartment,2bdrm Apartment in Mabushi for rent,2026-05-30 13:26:28
+Life Camp,2,9000000,Apartment,Apartment,"Furnished 2bdrm Apartment in Bristol Apartments, Life Camp for rent",2026-05-30 13:26:28
+Jahi,2,8000000000,Apartment,Apartment,2bdrm Apartment in Jahi for rent,2026-05-30 13:26:28
+Galadimawa,1,1100000,Apartment,Apartment,"1bdrm Apartment in Queen Street, Galadimawa for rent",2026-05-30 13:26:28
+Gwarinpa,2,4200000,House,House,"2bdrm Bungalow in Dantata Estate, Gwarinpa for rent",2026-05-30 13:26:28
+Asokoro,7,180000000,Duplex,Detached Duplex,7bdrm Duplex in Asokoro for rent,2026-05-30 13:26:28
+Karmo,4,6000000,Duplex,Terraced Duplex,"4bdrm Townhouse / Terrace in Estate, Karmo for rent",2026-05-30 13:26:28
+Gwarinpa,4,20000000,Duplex,Detached Duplex,"4bdrm Duplex in 3Rd Avenue Gwarimpa, Gwarinpa for rent",2026-05-30 13:26:35
+Gaduwa,3,6000000,Apartment,Apartment,3bdrm Block of Flats in Gaduwa for rent,2026-05-30 13:26:35
+Jahi,5,30000000,Duplex,Detached Duplex,Furnished 5bdrm Duplex in Jahi for rent,2026-05-30 13:26:35
+Maitama,3,20500000,Duplex,Detached Duplex,"3bdrm Duplex in Hamptons, Maitama for rent",2026-05-30 13:26:35
+Lokogoma,2,8000000,House,House,Furnished 2bdrm House in Pentville Estate for rent,2026-05-30 13:26:35
+Jahi,4,10000000,Duplex,Detached Duplex,4bdrm Duplex in Jahi for rent,2026-05-30 13:26:35
+Durumi,1,5000000,Apartment,Apartment,"Furnished 1bdrm Apartment in Iyoba Apartment, Durumi for rent",2026-05-30 13:26:35
+Jahi,3,11500000,Apartment,Apartment,3bdrm Apartment in Jahi for rent,2026-05-30 13:26:35
+Utako,2,4000000,Apartment,Apartment,Furnished 2bdrm Apartment in Utako for rent,2026-05-30 13:26:35
+Gwarinpa,5,10000000,Duplex,Detached Duplex,"5bdrm Duplex in Orange Estate Off, Gwarinpa for rent",2026-05-30 13:26:35
+Jabi,3,14000000,Apartment,Apartment,"Furnished 3bdrm Block of Flats in Vintage Villas, Jabi for rent",2026-05-30 13:26:43
+Asokoro,6,30000000,Duplex,Detached Duplex,"6bdrm Duplex in Naf Valley Estate, Asokoro for rent",2026-05-30 13:26:43
+Gwarinpa,1,1500000,Apartment,Apartment,"Mini Flat in Gwarimpa Estate, Gwarinpa for rent",2026-05-30 13:26:43
+Mabushi,3,10000000,Apartment,Apartment,"3bdrm Apartment in Victoria Garden, Mabushi for rent",2026-05-30 13:26:43
+Life Camp,4,9000000,Duplex,Detached Duplex,4bdrm Duplex in Life Camp for rent,2026-05-30 13:26:43
+Asokoro,4,17000000,Duplex,Detached Duplex,4bdrm Duplex in Asokoro for rent,2026-05-30 13:26:43
+Durumi,1,5500000,Apartment,Apartment,"Furnished 1bdrm Apartment in Iyoba Apartment, Durumi for rent",2026-05-30 13:26:43
+Gudu,4,13000000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in Rockvale Manor, Gudu for rent",2026-05-30 13:26:43
+Utako,3,15000000,Duplex,Detached Duplex,3bdrm Duplex in Utako for rent,2026-05-30 13:26:43
+Maitama,4,30000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:26:43
+Kado,3,18000000,House,House,Furnished 3bdrm Bungalow in Kado Estate Phase 1 for rent,2026-05-30 13:26:43
+Maitama,4,40000000,Duplex,Terraced Duplex,Furnished 4bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:26:43
+Life Camp,4,25000000,Duplex,Detached Duplex,4bdrm Duplex in Life Camp for rent,2026-05-30 13:26:43
+Maitama,5,28000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:26:51
+Kubwa,4,9000000,Duplex,Detached Duplex,Furnished 4bdrm Duplex in Hill View Community for rent,2026-05-30 13:26:51
+Galadimawa,4,8000000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in Levi Estate, Galadimawa for rent",2026-05-30 13:26:51
+Jabi,3,200000000,Apartment,Apartment,3bdrm Apartment in Jabi for rent,2026-05-30 13:26:51
+Asokoro,4,28000000,Duplex,Detached Duplex,4bdrm Duplex in Asokoro Fct for rent,2026-05-30 13:26:51
+Wuye,4,18000000,Duplex,Detached Duplex,4bdrm Duplex in Wuye for rent,2026-05-30 13:26:51
+Asokoro,2,10000000,House,House,"2bdrm Bungalow in Abuja, Asokoro for rent",2026-05-30 13:26:51
+Mabushi,3,12000000,Apartment,Apartment,3bdrm Apartment in Mabushi for rent,2026-05-30 13:26:51
+Jahi,2,19000000,Apartment,Apartment,Furnished 2bdrm Apartment in Jahi for rent,2026-05-30 13:26:51
+Galadimawa,5,10000000,House,House,"5bdrm Bungalow in Suncity Estate, Galadimawa for rent",2026-05-30 13:26:51
+Gudu,3,13000000,Duplex,Detached Duplex,"Furnished 3bdrm Duplex in Rockvale Manors, Gudu for rent",2026-05-30 13:26:51
+Jabi,2,42000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Jabi for rent,2026-05-30 13:26:51
+Life Camp,4,16000000,Duplex,Detached Duplex,"4bdrm Duplex in Tangerine Exquisite, Life Camp for rent",2026-05-30 13:26:51
+Maitama,3,25000000,Apartment,Apartment,3bdrm Block of Flats in Maitama Property for rent,2026-05-30 13:26:51
+Kubwa,1,1200000,Apartment,Self Contain,"Studio Apartment in Arab Road, Kubwa for rent",2026-05-30 13:26:57
+Kubwa,1,2000000,Apartment,Apartment,"1bdrm Block of Flats in Hillview Estate, Kubwa for rent",2026-05-30 13:26:57
+Utako,1,2000000,Apartment,Self Contain,Studio Apartment in Utako for rent,2026-05-30 13:26:57
+Kubwa,3,4000000,Duplex,Detached Duplex,"3bdrm Duplex in Hillview Estate, Kubwa for rent",2026-05-30 13:26:57
+Maitama,7,50000000,Duplex,Detached Duplex,7bdrm Duplex in Maitama for rent,2026-05-30 13:26:57
+Mabushi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Mabushi for rent,2026-05-30 13:26:57
+Kado,1,2000000,Apartment,Apartment,1bdrm Apartment in Kado for rent,2026-05-30 13:26:57
+Jabi,2,7000000,Apartment,Apartment,2bdrm Apartment in Jabi for rent,2026-05-30 13:26:57
+Durumi,3,5000000,Apartment,Apartment,3bdrm Block of Flats in Durumi for rent,2026-05-30 13:26:57
+Maitama,6,65000000,Duplex,Detached Duplex,6bdrm Duplex in Maitama for rent,2026-05-30 13:26:57
+Wuye,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Wuye District for rent,2026-05-30 13:26:57
+Wuye,5,30000000,Duplex,Detached Duplex,5bdrm Duplex in Wuye for rent,2026-05-30 13:26:57
+Wuye,4,15000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Main Wuye for rent,2026-05-30 13:26:57
+Mabushi,5,18000000,Duplex,Detached Duplex,"5bdrm Duplex in Nugget, Mabushi for rent",2026-05-30 13:26:57
+Jahi,2,5000000,Apartment,Apartment,"2bdrm Block of Flats in Nugget, Jahi for rent",2026-05-30 13:26:57
+Asokoro,4,25000000,Duplex,Terraced Duplex,"Furnished 4bdrm Townhouse / Terrace in Jimmy Carter, Asokoro for rent",2026-05-30 13:27:09
+Maitama,5,80000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:27:09
+Mabushi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Mabushi for rent,2026-05-30 13:27:09
+Jabi,2,5500000,House,House,"2bdrm Bungalow in Efab City, Jabi for rent",2026-05-30 13:27:09
+Wuye,4,20000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Wuye for rent,2026-05-30 13:27:09
+Gwarinpa,1,658750,Apartment,Self Contain,Furnished Studio Apartment in Gwarinpa for rent,2026-05-30 13:27:09
+Galadimawa,3,6500000,Duplex,Terraced Duplex,3bdrm Townhouse / Terrace in Main Galadimawa for rent,2026-05-30 13:27:09
+Gwarinpa,1,922250,Apartment,Self Contain,Furnished Studio Apartment in Gwarinpa for rent,2026-05-30 13:27:09
+Kubwa,3,6000000,Duplex,Terraced Duplex,"3bdrm Townhouse / Terrace in Dantata Estate, Kubwa for rent",2026-05-30 13:27:09
+Kubwa,1,2300000,Apartment,Apartment,"1bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:27:09
+Jahi,1,6000000,Apartment,Apartment,1bdrm Apartment in Jahi for rent,2026-05-30 13:27:09
+Mabushi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Mabushi for rent,2026-05-30 13:27:09
+Wuse,4,19999999,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Wuse for rent,2026-05-30 13:27:09
+Gwarinpa,3,3500000,Apartment,Apartment,"3bdrm Block of Flats in Justice Estate, Gwarinpa for rent",2026-05-30 13:27:09
+Gwarinpa,3,8000000,House,House,"3bdrm Bungalow in Efab Queens, Gwarinpa for rent",2026-05-30 13:27:09
+Jahi,4,18000000,Duplex,Detached Duplex,4bdrm Duplex in Jahi Gilmore Fct for rent,2026-05-30 13:27:09
+Galadimawa,3,3800000,Apartment,Apartment,"3bdrm Block of Flats in Pries Estate, Galadimawa for rent",2026-05-30 13:27:17
+Wuye,3,8000000,Apartment,Apartment,"3bdrm Block of Flats in E, Wuye for rent",2026-05-30 13:27:17
+Galadimawa,4,8000000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in Levi Estate, Galadimawa for rent",2026-05-30 13:27:17
+Wuye,4,25000000,Duplex,Terraced Duplex,Furnished 4bdrm Townhouse / Terrace in Wuye for rent,2026-05-30 13:27:17
+Asokoro,5,25000000,Duplex,Terraced Duplex,5bdrm Townhouse / Terrace in Asokoro Main for rent,2026-05-30 13:27:17
+Gwarinpa,1,658750,Apartment,Apartment,Furnished 1bdrm Apartment in Gwarinpa for rent,2026-05-30 13:27:17
+Jahi,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Jahi Gilmore,Fct for rent",2026-05-30 13:27:17
+Maitama,5,90000000,House,House,Furnished 5bdrm Mansion in Maitama for rent,2026-05-30 13:27:17
+Kado,4,8000000,House,House,4bdrm Bungalow in Kado for rent,2026-05-30 13:27:17
+Asokoro,4,40000000,Duplex,Detached Duplex,4bdrm Duplex in Asokoro for rent,2026-05-30 13:27:17
+Gwarinpa,3,7000000,Apartment,Apartment,"3bdrm Block of Flats in Gwarimpa, Gwarinpa for rent",2026-05-30 13:27:17
+Gwarinpa,1,922250,Apartment,Self Contain,Furnished Studio Apartment in Gwarinpa for rent,2026-05-30 13:27:17
+Gwarinpa,5,15000000,Duplex,Detached Duplex,"5bdrm Duplex in Gwarimpa Estate, Gwarinpa for rent",2026-05-30 13:27:17
+Gwarinpa,3,7000000,House,House,"3bdrm Bungalow in Efab Version,By, Gwarinpa for rent",2026-05-30 13:27:17
+Kubwa,3,6000000,Duplex,Terraced Duplex,"3bdrm Townhouse / Terrace in Dantata Estate, Kubwa for rent",2026-05-30 13:27:17
+Jahi,3,25000000,Apartment,Apartment,Furnished 3bdrm Apartment in Jahi for rent,2026-05-30 13:27:17
+Jahi,1,6000000,Apartment,Apartment,1bdrm Apartment in Jahi for rent,2026-05-30 13:27:17
+Maitama,4,35000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:27:17
+Kubwa,1,2300000,Apartment,Apartment,"1bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:27:17
+Jahi,3,10000000,Duplex,Terraced Duplex,3bdrm Townhouse / Terrace in Jahi for rent,2026-05-30 13:27:26
+Maitama,5,50000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:27:26
+Maitama,3,10000000,Apartment,Apartment,3bdrm Block of Flats in Maitama for rent,2026-05-30 13:27:26
+Wuye,4,16000000,Duplex,Detached Duplex,4bdrm Duplex in Wuye for rent,2026-05-30 13:27:26
+Gwarinpa,3,9000000,House,House,"3bdrm Bungalow in Gwarimpa Estate,Fct, Gwarinpa for rent",2026-05-30 13:27:26
+Gwarinpa,4,10000000,House,House,"4bdrm Bungalow in Gwarimpa Extension, Gwarinpa for rent",2026-05-30 13:27:26
+Lokogoma,2,3999999,Apartment,Apartment,2bdrm Apartment in Lokogoma for rent,2026-05-30 13:27:26
+Maitama,3,17000000,Apartment,Apartment,3bdrm Apartment in Maitama for rent,2026-05-30 13:27:26
+Gudu,4,12000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Gudu for rent,2026-05-30 13:27:26
+Katampe,3,10000000,Apartment,Apartment,3bdrm Block of Flats in Katampe for rent,2026-05-30 13:27:26
+Wuye,2,4000000,Apartment,Apartment,"Furnished 2bdrm Apartment in Auta Ibrahim Street, Wuye for rent",2026-05-30 13:27:26
+Gwarinpa,2,200000,Apartment,Apartment,"Furnished 2bdrm Block of Flats in Gwarimpa Estate,Fct, Gwarinpa",2026-05-30 13:27:26
+Jabi,2,5500000,House,House,"2bdrm Bungalow in Efab City, Jabi for rent",2026-05-30 13:27:26
+Kaura,3,6000000,House,House,"Furnished 3bdrm Bungalow in Valley City Estate, Kaura for rent",2026-05-30 13:27:26
+Galadimawa,3,3800000,Apartment,Apartment,"3bdrm Block of Flats in Pries Estate, Galadimawa for rent",2026-05-30 13:27:26
+Gaduwa,4,7999999,Duplex,Detached Duplex,4bdrm Duplex in Gaduwa for rent,2026-05-30 13:27:26
+Kubwa,3,3800000,Apartment,Apartment,"Furnished 3bdrm Block of Flats in F01, Kubwa for rent",2026-05-30 13:27:26
+Jahi,4,18000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Jahi for rent,2026-05-30 13:27:26
+Katampe,3,10000000,Apartment,Apartment,3bdrm Block of Flats in Katampe for rent,2026-05-30 13:27:33
+Wuye,2,4000000,Apartment,Apartment,"Furnished 2bdrm Apartment in Auta Ibrahim Street, Wuye for rent",2026-05-30 13:27:33
+Jahi,4,10000000,Duplex,Detached Duplex,4bdrm Duplex in Jahi for rent,2026-05-30 13:27:33
+Jahi,4,18000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Jahi for rent,2026-05-30 13:27:33
+Asokoro,4,40000000,Duplex,Detached Duplex,4bdrm Duplex in Asokoro for rent,2026-05-30 13:27:33
+Mabushi,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Mabushi for rent,2026-05-30 13:27:33
+Jahi,3,25000000,Apartment,Apartment,Furnished 3bdrm Apartment in Jahi for rent,2026-05-30 13:27:33
+Jahi,2,22000000,Apartment,Apartment,Furnished 2bdrm Apartment in Jahi for rent,2026-05-30 13:27:33
+Wuye,3,12000000,Apartment,Apartment,3bdrm Block of Flats in Wuye for rent,2026-05-30 13:27:33
+Mabushi,4,12000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Mabushi for rent,2026-05-30 13:27:33
+Maitama,4,50000000,Duplex,Terraced Duplex,Furnished 4bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:27:33
+Jahi,2,15000000,Apartment,Apartment,Furnished 2bdrm Apartment in Jahi for rent,2026-05-30 13:27:33
+Maitama,4,40000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:27:39
+Jabi,6,55000000,Duplex,Detached Duplex,6bdrm Duplex in Jabi for rent,2026-05-30 13:27:39
+Jahi,2,19000000,Apartment,Apartment,Furnished 2bdrm Apartment in Jahi for rent,2026-05-30 13:27:39
+Kubwa,3,4000000,Apartment,Apartment,3bdrm Block of Flats in Apdc Estate Kubwa for rent,2026-05-30 13:27:39
+Jabi,3,7000000,Apartment,Apartment,3bdrm Apartment in Jabi for rent,2026-05-30 13:27:39
+Wuye,3,5500000,Apartment,Apartment,3bdrm Block of Flats in Wuye for rent,2026-05-30 13:27:39
+Wuye,3,8000000,Apartment,Apartment,3bdrm Apartment in Wuye for rent,2026-05-30 13:27:39
+Asokoro,3,50000000,Duplex,Detached Duplex,"Furnished 3bdrm Duplex in Aso Villa, Asokoro for rent",2026-05-30 13:27:39
+Maitama,5,65000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:27:39
+Mabushi,4,12000000,House,House,4bdrm Penthouse in Mabushi for rent,2026-05-30 13:27:39
+Durumi,3,5000000,Apartment,Apartment,3bdrm Block of Flats in Durumi for rent,2026-05-30 13:27:39
+Maitama,6,80000000,Duplex,Detached Duplex,6bdrm Duplex in Maitama for rent,2026-05-30 13:27:39
+Jahi,3,20000000,House,House,Furnished 3bdrm House in Jahi for rent,2026-05-30 13:27:39
+Jahi,3,6500000,House,House,"3bdrm Bungalow in Nuggy, Jahi for rent",2026-05-30 13:27:39
+Galadimawa,4,8000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Galadimawa for rent,2026-05-30 13:27:45
+Utako,1,2000000,Apartment,Self Contain,Studio Apartment in Utako for rent,2026-05-30 13:27:45
+Jabi,3,8000000,Apartment,Apartment,3bdrm Apartment in Jabi for rent,2026-05-30 13:27:45
+Jahi,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Jahi for rent,2026-05-30 13:27:45
+Wuye,4,20000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Wuye for rent,2026-05-30 13:27:45
+Mabushi,4,17000000,Duplex,Detached Duplex,4bdrm Duplex in Mabushi for rent,2026-05-30 13:27:45
+Maitama,4,30000000,Duplex,Detached Duplex,4bdrm Duplex in Maitama Main for rent,2026-05-30 13:27:45
+Maitama,4,50000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:27:45
+Asokoro,4,25000000,Duplex,Terraced Duplex,"Furnished 4bdrm Townhouse / Terrace in Jimmy Carter, Asokoro for rent",2026-05-30 13:27:45
+Gwarinpa,1,450000,Apartment,Self Contain,Furnished Studio Apartment in Gwarinpa for rent,2026-05-30 13:27:45
+Asokoro,2,35000000,Apartment,Apartment,"Furnished 2bdrm Block of Flats in Villa, Asokoro for rent",2026-05-30 13:27:45
+Jahi,2,8000000,Apartment,Apartment,"2bdrm Block of Flats in Fortune Estate, Jahi for rent",2026-05-30 13:27:45
+Kubwa,2,2500000,Apartment,Apartment,"2bdrm Apartment in F14, Kubwa for rent",2026-05-30 13:27:45
+Mabushi,3,9000000,Apartment,Apartment,3bdrm Block of Flats in Mabushi Main for rent,2026-05-30 13:27:45
+Maitama,4,50000000,Apartment,Apartment,4bdrm Block of Flats in Maitama for rent,2026-05-30 13:27:50
+Mabushi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Mabushi for rent,2026-05-30 13:27:50
+Utako,1,2000000,Apartment,Self Contain,Studio Apartment in Utako for rent,2026-05-30 13:27:50
+Gwarinpa,1,1054000,Apartment,Self Contain,Furnished Studio Apartment in Gwarinpa for rent,2026-05-30 13:27:50
+Asokoro,2,15000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Asokoro for rent,2026-05-30 13:27:50
+Utako,4,30000000,Duplex,Detached Duplex,Furnished 4bdrm Duplex in Utako for rent,2026-05-30 13:27:50
+Gwarinpa,4,12000000,Duplex,Detached Duplex,"4bdrm Duplex in Gwarimpa Estate, Gwarinpa for rent",2026-05-30 13:27:50
+Wuye,3,8000000,Apartment,Apartment,"3bdrm Block of Flats in E, Wuye for rent",2026-05-30 13:27:50
+Asokoro,5,25000000,Duplex,Terraced Duplex,5bdrm Townhouse / Terrace in Asokoro Main for rent,2026-05-30 13:27:50
+Maitama,4,20000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:27:50
+Maitama,5,90000000,House,House,Furnished 5bdrm Mansion in Maitama for rent,2026-05-30 13:27:50
+Jahi,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Jahi Gilmore,Fct for rent",2026-05-30 13:27:50
+Gwarinpa,1,658750,Apartment,Apartment,Furnished 1bdrm Apartment in Gwarinpa for rent,2026-05-30 13:27:50
+Kado,4,8000000,House,House,4bdrm Bungalow in Kado for rent,2026-05-30 13:27:50
+Asokoro,6,140000000,Duplex,Detached Duplex,Furnished 6bdrm Duplex in Asokoro for rent,2026-05-30 13:27:50
+Maitama,1,5000000,House,House,1bdrm Room & Parlour in Maitama for rent,2026-05-30 13:27:50
+Mabushi,4,15000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Mabushi for rent,2026-05-30 13:27:59
+Maitama,7,70000000,Duplex,Detached Duplex,7bdrm Duplex in Maitama for rent,2026-05-30 13:27:59
+Asokoro,4,30000000,Duplex,Detached Duplex,4bdrm Duplex in Asokoro for rent,2026-05-30 13:27:59
+Galadimawa,4,5500000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in City Estate, Galadimawa for rent",2026-05-30 13:27:59
+Galadimawa,4,8000000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in Spring Boulevard, Galadimawa for rent",2026-05-30 13:27:59
+Galadimawa,3,6000000,House,House,"Furnished 3bdrm Bungalow in Suncity Estate, Galadimawa for rent",2026-05-30 13:27:59
+Kubwa,4,7500000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in F01, Kubwa for rent",2026-05-30 13:27:59
+Galadimawa,4,10000000,Duplex,Detached Duplex,4bdrm Duplex in Galadimawa for rent,2026-05-30 13:27:59
+Kubwa,1,2500000,House,House,1bdrm Bungalow in Kubwa for rent,2026-05-30 13:27:59
+Kubwa,4,5000000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in F01, Kubwa for rent",2026-05-30 13:27:59
+Gaduwa,3,6000000,Apartment,Apartment,3bdrm Block of Flats in Gaduwa for rent,2026-05-30 13:27:59
+Wuye,1,7000000,Apartment,Apartment,1bdrm Apartment in Wuye for rent,2026-05-30 13:28:04
+Jabi,3,12000000,Apartment,Apartment,3bdrm Apartment in Jabi for rent,2026-05-30 13:28:04
+Utako,1,4500000,House,House,1bdrm Bungalow in Utako District for rent,2026-05-30 13:28:04
+Wuye,3,12000000,Apartment,Apartment,3bdrm Apartment in Main Wuye for rent,2026-05-30 13:28:04
+Asokoro,2,25000000,Apartment,Apartment,Furnished 2bdrm Apartment in Aso Villa Asokoro for rent,2026-05-30 13:28:04
+Utako,3,10000000,Apartment,Apartment,3bdrm Block of Flats in Utako for rent,2026-05-30 13:28:04
+Wuye,2,6500000,Apartment,Apartment,2bdrm Apartment in Wuye for rent,2026-05-30 13:28:04
+Maitama,4,60000000,Duplex,Detached Duplex,4bdrm Duplex in Maitama for rent,2026-05-30 13:28:04
+Mabushi,3,10000000,Apartment,Apartment,3bdrm Apartment in Mabushi for rent,2026-05-30 13:28:04
+Jabi,4,35000000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in Nugget, Jabi for rent",2026-05-30 13:28:04
+Jahi,2,6500000,Apartment,Apartment,2bdrm Block of Flats in Jahi Glimo for rent,2026-05-30 13:28:04
+Jahi,4,16000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Jahi for rent,2026-05-30 13:28:04
+Jabi,2,7000000,Apartment,Apartment,2bdrm Apartment in Jabi for rent,2026-05-30 13:28:04
+Jahi,1,7000000,Apartment,Apartment,1bdrm Apartment in Jahi for rent,2026-05-30 13:28:04
+Jahi,3,8000000,Apartment,Apartment,3bdrm Apartment in Jahi for rent,2026-05-30 13:28:15
+Jahi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Jahi for rent,2026-05-30 13:28:15
+Mabushi,4,12000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Mabushi for rent,2026-05-30 13:28:15
+Jabi,3,8000000,Apartment,Apartment,3bdrm Apartment in Jabi for rent,2026-05-30 13:28:15
+Mabushi,4,20000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Mabushi for rent,2026-05-30 13:28:15
+Jabi,3,5500000,Apartment,Apartment,3bdrm Block of Flats in Main Jabi By Fcmb for rent,2026-05-30 13:28:15
+Mabushi,4,17000000,Duplex,Detached Duplex,4bdrm Duplex in Mabushi for rent,2026-05-30 13:28:15
+Gwarinpa,3,7500000,Duplex,Terraced Duplex,"3bdrm Townhouse / Terrace in Main Gwarimpa, Gwarinpa for rent",2026-05-30 13:28:15
+Kubwa,2,2500000,House,House,2bdrm Bungalow in Kubwa for rent,2026-05-30 13:28:15
+Jahi,3,75000000,Apartment,Apartment,3bdrm Block of Flats in Jahi for rent,2026-05-30 13:28:15
+Life Camp,4,13000000,Duplex,Detached Duplex,4bdrm Duplex in Life Camp for rent,2026-05-30 13:28:15
+Jabi,4,30000000,Duplex,Detached Duplex,4bdrm Duplex in Jabi for rent,2026-05-30 13:28:22
+Jahi,1,4500000,Apartment,Self Contain,Furnished Studio Apartment in Jahi for rent,2026-05-30 13:28:22
+Maitama,3,17000000,Apartment,Apartment,3bdrm Apartment in Maitama for rent,2026-05-30 13:28:22
+Gwarinpa,2,200000,Apartment,Apartment,"Furnished 2bdrm Block of Flats in Gwarimpa Estate,Fct, Gwarinpa",2026-05-30 13:28:22
+Durumi,2,4000000,Apartment,Apartment,2bdrm Block of Flats in Durumi for rent,2026-05-30 13:28:22
+Gwarinpa,3,9000000,House,House,"3bdrm Bungalow in Efab Queen Estate By, Gwarinpa for rent",2026-05-30 13:28:22
+Gwarinpa,1,1054000,Apartment,Self Contain,Furnished Studio Apartment in Gwarinpa for rent,2026-05-30 13:28:22
+Jahi,4,15000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Jahi for rent,2026-05-30 13:28:22
+Asokoro,5,25000000,Duplex,Terraced Duplex,5bdrm Townhouse / Terrace in Asokoro Main for rent,2026-05-30 13:28:22
+Wuye,3,8000000,Apartment,Apartment,"3bdrm Block of Flats in E, Wuye for rent",2026-05-30 13:28:22
+Maitama,1,5000000,House,House,1bdrm Room & Parlour in Maitama for rent,2026-05-30 13:28:22
+Gwarinpa,1,922250,Apartment,Self Contain,Furnished Studio Apartment in Gwarinpa for rent,2026-05-30 13:28:22
+Jahi,1,6000000,Apartment,Apartment,1bdrm Apartment in Jahi for rent,2026-05-30 13:28:22
+Maitama,4,35000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:28:22
+Maitama,5,44999999,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:28:31
+Wuye,6,25000000,Duplex,Detached Duplex,"Furnished 6bdrm Duplex in Jessy Street, Wuye for rent",2026-05-30 13:28:31
+Durumi,3,4000000,Apartment,Apartment,"3bdrm Apartment in Gowan Street, Durumi for rent",2026-05-30 13:28:31
+Kubwa,4,5000000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in F01, Kubwa for rent",2026-05-30 13:28:31
+Kubwa,3,5500000,Duplex,Detached Duplex,"Furnished 3bdrm Duplex in Fcda, Kubwa for rent",2026-05-30 13:28:31
+Durumi,2,4000000,Apartment,Apartment,2bdrm Apartment in Durumi for rent,2026-05-30 13:28:31
+Wuye,1,10000000,Apartment,Apartment,Furnished 1bdrm Apartment in Wuye for rent,2026-05-30 13:28:31
+Asokoro,6,35000000,Duplex,Detached Duplex,6bdrm Duplex in Asokoro for rent,2026-05-30 13:28:31
+Durumi,2,6500000,Apartment,Apartment,2bdrm Block of Flats in Durumi for rent,2026-05-30 13:28:31
+Mabushi,5,15000000,Duplex,Terraced Duplex,5bdrm Townhouse / Terrace in Mabushi for rent,2026-05-30 13:28:31
+Asokoro,5,100000000,Duplex,Detached Duplex,5bdrm Duplex in Asokoro for rent,2026-05-30 13:28:31
+Jahi,4,18000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Jahi Glimo for rent,2026-05-30 13:28:31
+Wuye,4,20000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Wuye for rent,2026-05-30 13:28:31
+Asokoro,5,45000000,Duplex,Detached Duplex,5bdrm Duplex in Asokoro for rent,2026-05-30 13:28:36
+Jahi,3,8500000,Apartment,Apartment,3bdrm Block of Flats in Jahi for rent,2026-05-30 13:28:36
+Jabi,4,35000000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in Nugget, Jabi for rent",2026-05-30 13:28:36
+Mabushi,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Nugget, Mabushi for rent",2026-05-30 13:28:36
+Jahi,4,16000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Jahi for rent,2026-05-30 13:28:36
+Jabi,2,7000000,Apartment,Apartment,2bdrm Apartment in Jabi for rent,2026-05-30 13:28:36
+Jahi,5,18000000,Duplex,Terraced Duplex,5bdrm Townhouse / Terrace in Jahi Gilmore for rent,2026-05-30 13:28:36
+Gwarinpa,1,1500000,Apartment,Self Contain,"Studio Apartment in Efab Verizon, Gwarinpa for rent",2026-05-30 13:28:36
+Jahi,1,7000000,Apartment,Apartment,1bdrm Apartment in Jahi for rent,2026-05-30 13:28:36
+Jahi,4,25000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Jahi for rent,2026-05-30 13:28:36
+Jahi,3,10000000,Apartment,Apartment,"3bdrm Block of Flats in Fortune Estate, Jahi for rent",2026-05-30 13:28:36
+Kubwa,3,6000000,Duplex,Terraced Duplex,"3bdrm Townhouse / Terrace in Dantata Estate, Kubwa for rent",2026-05-30 13:28:36
+Kubwa,1,2300000,Apartment,Apartment,"1bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:28:36
+Gwarinpa,5,15000000,Duplex,Detached Duplex,"5bdrm Duplex in Jahi Gilmore,Fct, Gwarinpa for rent",2026-05-30 13:28:36
+Jahi,4,20000000,Duplex,Detached Duplex,"4bdrm Duplex in Jahi Gilmore,Fct for rent",2026-05-30 13:28:36
+Gwarinpa,5,18000000,House,House,"5bdrm Mansion in Efab Metropolitan, Gwarinpa for rent",2026-05-30 13:28:36
+Jabi,6,60000000,Duplex,Detached Duplex,6bdrm Duplex in Jabi for rent,2026-05-30 13:28:36
+Maitama,6,100000000,Duplex,Detached Duplex,6bdrm Duplex in Maitama for rent,2026-05-30 13:28:36
+Gwarinpa,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Gwarimpa Estate By, Gwarinpa for rent",2026-05-30 13:28:42
+Mabushi,4,20000000,Duplex,Detached Duplex,4bdrm Duplex in Mabushi for rent,2026-05-30 13:28:42
+Utako,4,30000000,Duplex,Detached Duplex,Furnished 4bdrm Duplex in Utako for rent,2026-05-30 13:28:42
+Jabi,3,12000000,Apartment,Apartment,3bdrm Apartment in Jabi for rent,2026-05-30 13:28:42
+Jahi,4,15000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Jahi for rent,2026-05-30 13:28:42
+Asokoro,5,25000000,Duplex,Terraced Duplex,5bdrm Townhouse / Terrace in Asokoro Main for rent,2026-05-30 13:28:42
+Wuye,3,8000000,Apartment,Apartment,"3bdrm Block of Flats in E, Wuye for rent",2026-05-30 13:28:42
+Maitama,1,5000000,House,House,1bdrm Room & Parlour in Maitama for rent,2026-05-30 13:28:42
+Gwarinpa,1,658750,Apartment,Self Contain,Furnished Studio Apartment in Gwarinpa for rent,2026-05-30 13:28:42
+Wuye,5,30000000,Duplex,Terraced Duplex,5bdrm Townhouse / Terrace in Wuye for rent,2026-05-30 13:28:42
+Gwarinpa,1,790500,Apartment,Self Contain,Furnished Studio Apartment in Gwarinpa for rent,2026-05-30 13:28:42
+Jabi,3,7000000,Apartment,Apartment,3bdrm Apartment in Jabi for rent,2026-05-30 13:28:42
+Asokoro,3,50000000,Duplex,Detached Duplex,"Furnished 3bdrm Duplex in Aso Villa, Asokoro for rent",2026-05-30 13:28:42
+Mabushi,4,12000000,House,House,4bdrm Penthouse in Mabushi for rent,2026-05-30 13:28:42
+Maitama,5,65000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:28:42
+Mabushi,4,15000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Mabushi for rent,2026-05-30 13:28:42
+Jahi,2,7000000,Apartment,Apartment,2bdrm Apartment in Jahi for rent,2026-05-30 13:28:42
+Mabushi,3,10000000,Apartment,Apartment,3bdrm Apartment in Mabushi for rent,2026-05-30 13:28:49
+Wuye,1,7000000,Apartment,Apartment,1bdrm Apartment in Wuye for rent,2026-05-30 13:28:49
+Karmo,4,6000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Karmo for rent,2026-05-30 13:28:49
+Wuye,2,15000000,Apartment,Apartment,Furnished 2bdrm Apartment in Wuye for rent,2026-05-30 13:28:49
+Maitama,4,20000000,House,House,4bdrm Bungalow in Maitama for rent,2026-05-30 13:28:49
+Jahi,3,144000000,Apartment,Apartment,3bdrm Block of Flats in Jahi Gilmore for rent,2026-05-30 13:28:49
+Gaduwa,2,3500000,Apartment,Apartment,2bdrm Block of Flats in Gaduwa for rent,2026-05-30 13:28:49
+Jahi,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Jahi for rent,2026-05-30 13:28:49
+Jahi,20,72000000,Apartment,Apartment,20bdrm Block of Flats in Jahi for rent,2026-05-30 13:28:49
+Mabushi,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Nugget, Mabushi for rent",2026-05-30 13:28:49
+Wuye,4,25000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Wuye for rent,2026-05-30 13:28:49
+Life Camp,2,5000000,Apartment,Apartment,"2bdrm Block of Flats in Paradise, Life Camp for rent",2026-05-30 13:28:49
+Jahi,4,15000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Jahi Gilmore for rent,2026-05-30 13:28:49
+Life Camp,2,6000000,Apartment,Apartment,2bdrm Apartment in Life Camp for rent,2026-05-30 13:28:49
+Jahi,2,8000000,Apartment,Apartment,"2bdrm Block of Flats in Fortune Estate, Jahi for rent",2026-05-30 13:28:49
+Jahi,5,20000000,Duplex,Detached Duplex,Furnished 5bdrm Duplex in Jahi for rent,2026-05-30 13:28:56
+Asokoro,2,15000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Asokoro for rent,2026-05-30 13:28:56
+Gwarinpa,4,13000000,Duplex,Detached Duplex,"4bdrm Duplex in Mabeglober Estate, Gwarinpa for rent",2026-05-30 13:28:56
+Galadimawa,4,8000000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in Levi Estate, Galadimawa for rent",2026-05-30 13:28:56
+Gwarinpa,4,12000000,Duplex,Detached Duplex,"4bdrm Duplex in Gwarimpa Estate, Gwarinpa for rent",2026-05-30 13:28:56
+Maitama,4,75000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:28:56
+Kado,6,18000000,House,House,6bdrm Bungalow in Kado for rent,2026-05-30 13:28:56
+Wuye,2,6500000,Apartment,Apartment,2bdrm Block of Flats in Wuye for rent,2026-05-30 13:28:56
+Mabushi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Mabushi for rent,2026-05-30 13:28:56
+Mabushi,4,25000000,Duplex,Detached Duplex,4bdrm Duplex in Mabushi for rent,2026-05-30 13:28:56
+Jahi,3,72000000,Apartment,Apartment,3bdrm Block of Flats in Jahi for rent,2026-05-30 13:28:56
+Wuye,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Wuye for rent,2026-05-30 13:28:56
+Maitama,7,100000000,Duplex,Detached Duplex,7bdrm Duplex in Maitama for rent,2026-05-30 13:28:56
+Maitama,10,250000000,Duplex,Detached Duplex,10bdrm Duplex in Maitama District for rent,2026-05-30 13:28:56
+Mabushi,1,3500000,Apartment,Self Contain,Studio Apartment in Mabushi for rent,2026-05-30 13:28:56
+Jahi,3,10000000,Duplex,Terraced Duplex,3bdrm Townhouse / Terrace in Jahi for rent,2026-05-30 13:28:56
+Jahi,3,7500000,Apartment,Apartment,3bdrm Apartment in Jahi for rent,2026-05-30 13:29:04
+Life Camp,2,6500000,Apartment,Apartment,"2bdrm Block of Flats in Bilaad Estate, Life Camp for rent",2026-05-30 13:29:04
+Gwarinpa,2,4200000,Apartment,Apartment,"2bdrm Block of Flats in Justice Estate, Gwarinpa for rent",2026-05-30 13:29:04
+Asokoro,3,23000000,Apartment,Apartment,3bdrm Apartment in Asokoro for rent,2026-05-30 13:29:04
+Maitama,6,80000000,Duplex,Detached Duplex,6bdrm Duplex in Maitama for rent,2026-05-30 13:29:04
+Jahi,2,9000000,Apartment,Apartment,"2bdrm Block of Flats in Jahi Gilmore,Fct for rent",2026-05-30 13:29:04
+Kubwa,1,2500000,Apartment,Apartment,"1bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:29:04
+Gwarinpa,4,16000000,Duplex,Detached Duplex,"4bdrm Duplex in Gwarimpa Estate By, Gwarinpa for rent",2026-05-30 13:29:04
+Gwarinpa,3,15000000,Duplex,Detached Duplex,"Furnished 3bdrm Duplex in Gwarimpa Extension, Gwarinpa for rent",2026-05-30 13:29:04
+Life Camp,3,10000000,Duplex,Detached Duplex,3bdrm Duplex in Life Camp for rent,2026-05-30 13:29:04
+Jahi,3,20000000,Apartment,Apartment,Furnished 3bdrm Block of Flats in Jahi for rent,2026-05-30 13:29:04
+Mabushi,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Nugget, Mabushi for rent",2026-05-30 13:29:04
+Mabushi,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Nugget, Mabushi for rent",2026-05-30 13:29:09
+Jahi,5,16000000,Duplex,Detached Duplex,5bdrm Duplex in Jahi Gilmore Fct for rent,2026-05-30 13:29:09
+Gwarinpa,4,10000000,House,House,"4bdrm Bungalow in Gwarimpa Extension, Gwarinpa for rent",2026-05-30 13:29:09
+Life Camp,2,6000000,Apartment,Apartment,2bdrm Apartment in Life Camp for rent,2026-05-30 13:29:09
+Katampe,5,25000000,Duplex,Detached Duplex,"5bdrm Duplex in Nuggy, Katampe for rent",2026-05-30 13:29:09
+Jahi,4,15000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Jahi for rent,2026-05-30 13:29:09
+Wuye,2,6500000,Apartment,Apartment,2bdrm Block of Flats in Wuye for rent,2026-05-30 13:29:09
+Mabushi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Mabushi for rent,2026-05-30 13:29:09
+Kado,1,2000000,Apartment,Apartment,1bdrm Apartment in Kado for rent,2026-05-30 13:29:09
+Jabi,3,7000000,Apartment,Apartment,3bdrm Apartment in Jabi for rent,2026-05-30 13:29:09
+Wuye,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Wuye District for rent,2026-05-30 13:29:09
+Durumi,3,15000000,Duplex,Detached Duplex,3bdrm Duplex in Durumi District for rent,2026-05-30 13:29:09
+Maitama,6,80000000,Duplex,Detached Duplex,6bdrm Duplex in Maitama for rent,2026-05-30 13:29:09
+Durumi,2,6000000,Apartment,Apartment,2bdrm Block of Flats in Durumi for rent,2026-05-30 13:29:09
+Gwarinpa,4,11000000,Duplex,Detached Duplex,"4bdrm Duplex in Gwarimpa Estate,Fct, Gwarinpa for rent",2026-05-30 13:29:17
+Jahi,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Jahi Gilmore,Very for rent",2026-05-30 13:29:17
+Jabi,2,20000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Jabi for rent,2026-05-30 13:29:17
+Kado,5,30000000,Duplex,Terraced Duplex,5bdrm Townhouse / Terrace in Kado District for rent,2026-05-30 13:29:17
+Asokoro,5,25000000,Duplex,Detached Duplex,5bdrm Duplex in Asokoro for rent,2026-05-30 13:29:17
+Maitama,3,20000000,Duplex,Terraced Duplex,"3bdrm Townhouse / Terrace in Main Maita, Maitama for rent",2026-05-30 13:29:17
+Wuye,1,7300000,Apartment,Apartment,Furnished 1bdrm Apartment in Wuye for rent,2026-05-30 13:29:17
+Maitama,7,50000000,Duplex,Detached Duplex,7bdrm Duplex in Maitama for rent,2026-05-30 13:29:17
+Mabushi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Mabushi for rent,2026-05-30 13:29:17
+Durumi,3,5000000,Apartment,Apartment,3bdrm Block of Flats in Durumi for rent,2026-05-30 13:29:17
+Jahi,3,12500000,Apartment,Apartment,3bdrm Block of Flats in Jahi for rent,2026-05-30 13:29:17
+Jahi,3,8500000,Apartment,Apartment,3bdrm Block of Flats in Jahi for rent,2026-05-30 13:29:17
+Mabushi,4,13000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Mabushi for rent,2026-05-30 13:29:25
+Jahi,2,7000000,Apartment,Apartment,2bdrm Apartment in Jahi for rent,2026-05-30 13:29:25
+Life Camp,2,8800000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Brains & Hammers for rent,2026-05-30 13:29:25
+Kubwa,2,3500000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:29:25
+Gwarinpa,3,5500000,Duplex,Terraced Duplex,"3bdrm Townhouse / Terrace in Belham, Gwarinpa for rent",2026-05-30 13:29:25
+Kubwa,2,3000000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:29:25
+Jabi,3,5500000,Apartment,Apartment,3bdrm Block of Flats in Main Jabi By Fcmb for rent,2026-05-30 13:29:25
+Kado,4,20000000,Duplex,Detached Duplex,4bdrm Duplex in Kado Before Life for rent,2026-05-30 13:29:25
+Gwarinpa,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Gwarimpa Estate By, Gwarinpa for rent",2026-05-30 13:29:25
+Gwarinpa,4,11000000,Duplex,Detached Duplex,"4bdrm Duplex in Gwarimpa, Gwarinpa for rent",2026-05-30 13:29:25
+Jahi,3,15000000,Apartment,Apartment,3bdrm Apartment in Jahi Gilmore for rent,2026-05-30 13:29:25
+Wuye,4,15000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Main Wuye for rent,2026-05-30 13:29:25
+Jabi,3,7000000,Apartment,Apartment,3bdrm Apartment in Jabi for rent,2026-05-30 13:29:25
+Asokoro,6,45000000,Duplex,Detached Duplex,6bdrm Duplex in Asokoro District for rent,2026-05-30 13:29:32
+Wuye,4,25000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Wuye Main for rent,2026-05-30 13:29:32
+Jahi,4,20000000,Duplex,Detached Duplex,4bdrm Duplex in Jahi for rent,2026-05-30 13:29:32
+Life Camp,4,16000000,Duplex,Detached Duplex,4bdrm Duplex in Life Camp for rent,2026-05-30 13:29:32
+Mabushi,3,7000000,Apartment,Apartment,3bdrm Block of Flats in Mabushi for rent,2026-05-30 13:29:32
+Jahi,3,10000000,Apartment,Apartment,"Furnished 3bdrm Block of Flats in Gilmo, Jahi for rent",2026-05-30 13:29:32
+Wuye,4,20000000,Apartment,Apartment,4bdrm Apartment in Wuye for rent,2026-05-30 13:29:32
+Idu,2,6000000,Apartment,Apartment,Furnished 2bdrm Apartment in Main Idu for rent,2026-05-30 13:29:32
+Jahi,5,18000000,Duplex,Terraced Duplex,5bdrm Townhouse / Terrace in Jahi Gilmore for rent,2026-05-30 13:29:32
+Jahi,3,12500000,Apartment,Apartment,3bdrm Block of Flats in Jahi for rent,2026-05-30 13:29:32
+Durumi,3,9000000,Apartment,Apartment,"3bdrm Block of Flats in Durunmi, Durumi for rent",2026-05-30 13:29:32
+Kubwa,3,6000000,Duplex,Terraced Duplex,"3bdrm Townhouse / Terrace in Dantata Estate, Kubwa for rent",2026-05-30 13:29:32
+Jahi,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Jahi Gilmore,Very for rent",2026-05-30 13:29:37
+Jahi,3,15000000,Apartment,Apartment,3bdrm Apartment in Jahi Gilmore for rent,2026-05-30 13:29:37
+Lokogoma,1,550000,House,House,1bdrm Bungalow in Lokogoma for rent,2026-05-30 13:29:37
+Maitama,2,15000000,Apartment,Apartment,2bdrm Apartment in Maitama District for rent,2026-05-30 13:29:37
+Utako,4,18000000,Duplex,Detached Duplex,4bdrm Duplex in Utako District for rent,2026-05-30 13:29:37
+Mabushi,3,7000000,Apartment,Apartment,3bdrm Apartment in Mabushi for rent,2026-05-30 13:29:37
+Life Camp,6,35000000,Duplex,Detached Duplex,6bdrm Duplex in Life Camp for rent,2026-05-30 13:29:37
+Wuye,1,7300000,Apartment,Apartment,Furnished 1bdrm Apartment in Wuye for rent,2026-05-30 13:29:37
+Durumi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Durumi for rent,2026-05-30 13:29:37
+Mabushi,4,13000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Mabushi for rent,2026-05-30 13:29:37
+Jahi,4,15000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Jahi for rent,2026-05-30 13:29:37
+Gwarinpa,3,11000000,Duplex,Terraced Duplex,"Furnished 3bdrm Townhouse / Terrace in Belham Estate, Gwarinpa for rent",2026-05-30 13:29:37
+Wuye,3,170000000,Apartment,Apartment,3bdrm Apartment in Wuye for rent,2026-05-30 13:29:37
+Gwarinpa,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Gwarimpa Estate Fct, Gwarinpa for rent",2026-05-30 13:29:37
+Wuye,4,20000000,Apartment,Apartment,4bdrm Apartment in Wuye for rent,2026-05-30 13:29:45
+Jabi,1,16500000,Apartment,Apartment,1bdrm Apartment in Jabi Main for rent,2026-05-30 13:29:45
+Mabushi,4,17000000,Duplex,Detached Duplex,4bdrm Duplex in Mabushi District for rent,2026-05-30 13:29:45
+Maitama,4,90000000,Duplex,Terraced Duplex,Furnished 4bdrm Townhouse / Terrace in Maitama District for rent,2026-05-30 13:29:45
+Jahi,3,10000000,Duplex,Terraced Duplex,3bdrm Townhouse / Terrace in Jahi for rent,2026-05-30 13:29:45
+Gudu,3,8000000,Apartment,Apartment,3bdrm Block of Flats in Gudu for rent,2026-05-30 13:29:45
+Durumi,5,10000000,Duplex,Detached Duplex,5bdrm Duplex in Durumi for rent,2026-05-30 13:29:45
+Jahi,3,10000000,Apartment,Apartment,3bdrm Block of Flats in Jahi for rent,2026-05-30 13:29:45
+Jahi,3,10000000,Apartment,Apartment,Furnished 3bdrm Block of Flats in Jahi for rent,2026-05-30 13:29:45
+Mabushi,4,15000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Mabushi for rent,2026-05-30 13:29:45
+Kubwa,2,3500000,Apartment,Apartment,2bdrm Block of Flats in Kubwa for rent,2026-05-30 13:29:45
+Jahi,5,17000000,Duplex,Detached Duplex,"5bdrm Duplex in Jahi Gilmore,Fct for rent",2026-05-30 13:29:45
+Idu,2,4000000,Apartment,Apartment,2bdrm Block of Flats in Idu Main for rent,2026-05-30 13:29:45
+Gwarinpa,3,10000000,Duplex,Detached Duplex,"3bdrm Duplex in Gwarimpa Estate,Fct, Gwarinpa for rent",2026-05-30 13:29:45
+Jahi,5,16000000,Duplex,Detached Duplex,5bdrm Duplex in Jahi Gilmore Fct for rent,2026-05-30 13:29:45
+Mabushi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Mabushi for rent,2026-05-30 13:29:45
+Jahi,3,10000000,Apartment,Apartment,"Furnished 3bdrm Block of Flats in Gilmo, Jahi for rent",2026-05-30 13:29:56
+Kubwa,2,5000000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:29:56
+Kubwa,4,8000000,Duplex,Detached Duplex,4bdrm Duplex in Kubwa for rent,2026-05-30 13:29:56
+Jahi,1,2000000,Apartment,Apartment,"1bdrm Apartment in Banana Island, Jahi for rent",2026-05-30 13:29:56
+Gwarinpa,4,9000000,Duplex,Terraced Duplex,"4bdrm Townhouse / Terrace in Off 3Rd Avenue, Gwarinpa for rent",2026-05-30 13:29:56
+Jahi,2,6500000,Apartment,Apartment,2bdrm Block of Flats in Jahi Glimo for rent,2026-05-30 13:29:56
+Life Camp,5,15000000,Duplex,Detached Duplex,"Furnished 5bdrm Duplex in Trem Church, Life Camp for rent",2026-05-30 13:29:56
+Gwarinpa,5,14000000,Duplex,Detached Duplex,"5bdrm Duplex in Gwarimpa Estate By, Gwarinpa for rent",2026-05-30 13:29:56
+Gwarinpa,4,10000000,House,House,"4bdrm Bungalow in Gwarimpa, Gwarinpa for rent",2026-05-30 13:29:56
+Jahi,4,20000000,Duplex,Detached Duplex,"4bdrm Duplex in Jahi Gilmore,Fct for rent",2026-05-30 13:29:56
+Life Camp,2,5000000,Apartment,Apartment,2bdrm Apartment in Lifecamp for rent,2026-05-30 13:29:56
+Katampe,4,14000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Katampe Main for rent,2026-05-30 13:29:56
+Asokoro,3,75000000,Apartment,Apartment,Furnished 3bdrm Apartment in Main Asokoro for rent,2026-05-30 13:29:56
+Life Camp,6,25000000,House,House,6bdrm House in Life Camp for rent,2026-05-30 13:29:56
+Maitama,4,20000000,House,House,4bdrm Bungalow in Maitama for rent,2026-05-30 13:29:56
+Kaura,2,7500000,Apartment,Apartment,2bdrm Block of Flats in Kaura for rent,2026-05-30 13:29:56
+Gaduwa,4,10000000,Duplex,Detached Duplex,4bdrm Duplex in Gaduwa for rent,2026-05-30 13:29:56
+Life Camp,3,6000000,House,House,3bdrm Bungalow in Life Camp for rent,2026-05-30 13:29:56
+Gwarinpa,5,12000000,Duplex,Detached Duplex,"5bdrm Duplex in Harmony Estate, Gwarinpa for rent",2026-05-30 13:29:56
+Gwarinpa,4,11000000,Duplex,Detached Duplex,"4bdrm Duplex in Gwarimpa, Gwarinpa for rent",2026-05-30 13:30:04
+Jabi,3,68250000,Apartment,Apartment,Furnished 3bdrm Apartment in Jabi By Lakeview for rent,2026-05-30 13:30:04
+Wuye,4,25000000,Duplex,Detached Duplex,4bdrm Duplex in Main Wuye for rent,2026-05-30 13:30:04
+Galadimawa,4,8000000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in Levi Estate, Galadimawa for rent",2026-05-30 13:30:04
+Maitama,2,48000000,Apartment,Apartment,Furnished 2bdrm Apartment in Maitama for rent,2026-05-30 13:30:04
+Wuye,5,30000000,Duplex,Detached Duplex,5bdrm Duplex in Wuye for rent,2026-05-30 13:30:04
+Maitama,3,20000000,Apartment,Apartment,3bdrm Apartment in Maitama for rent,2026-05-30 13:30:04
+Jahi,3,9000000,Apartment,Apartment,3bdrm Apartment in Jahi for rent,2026-05-30 13:30:04
+Durumi,3,5000000,Apartment,Apartment,3bdrm Block of Flats in Durumi for rent,2026-05-30 13:30:04
+Kubwa,2,3000000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:30:04
+Mabushi,4,15000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Mabushi for rent,2026-05-30 13:30:04
+Jabi,3,5500000,Apartment,Apartment,3bdrm Block of Flats in Main Jabi By Fcmb for rent,2026-05-30 13:30:04
+Jahi,3,8500000,Apartment,Apartment,3bdrm Apartment in Jahi Gilmore for rent,2026-05-30 13:30:04
+Kubwa,3,4000000,Apartment,Apartment,"3bdrm Block of Flats in Extension 3, Kubwa for rent",2026-05-30 13:30:04
+Jahi,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Jahi Gilmore Fct for rent,2026-05-30 13:30:04
+Gwarinpa,5,18000000,Duplex,Detached Duplex,"5bdrm Duplex in Gwarimpa Estate, Gwarinpa for rent",2026-05-30 13:30:04
+Jahi,3,8500000,Apartment,Apartment,3bdrm Block of Flats in Jahi for rent,2026-05-30 13:30:04
+Asokoro,3,35000000,Apartment,Apartment,3bdrm Block of Flats in Asokoro for rent,2026-05-30 13:30:04
+Maitama,5,60000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:30:12
+Maitama,4,77500000,Duplex,Detached Duplex,4bdrm Duplex in Maitama for rent,2026-05-30 13:30:12
+Galadimawa,4,8000000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in Levi Estate, Galadimawa for rent",2026-05-30 13:30:12
+Durumi,3,8000000,Apartment,Apartment,3bdrm Block of Flats in Durumi for rent,2026-05-30 13:30:12
+Kubwa,3,5000000,Apartment,Apartment,"3bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:30:12
+Life Camp,5,15000000,Duplex,Detached Duplex,"Furnished 5bdrm Duplex in Trem Church, Life Camp for rent",2026-05-30 13:30:12
+Kubwa,2,2500000,Apartment,Apartment,"2bdrm Apartment in F14, Kubwa for rent",2026-05-30 13:30:12
+Gwarinpa,3,9000000,House,House,"3bdrm Bungalow in Efab Queen Estate By, Gwarinpa for rent",2026-05-30 13:30:12
+Gwarinpa,4,13000000,Duplex,Detached Duplex,"4bdrm Duplex in Mabeglober Estate, Gwarinpa for rent",2026-05-30 13:30:12
+Asokoro,3,20000000,House,House,Furnished 3bdrm Farm House in Naf Valley Asokoro for rent,2026-05-30 13:30:12
+Maitama,10,250000000,Duplex,Detached Duplex,10bdrm Duplex in Maitama District for rent,2026-05-30 13:30:12
+Asokoro,3,50000000,Duplex,Detached Duplex,"Furnished 3bdrm Duplex in Aso Villa, Asokoro for rent",2026-05-30 13:30:12
+Jahi,4,20000000,Duplex,Detached Duplex,4bdrm Duplex in Jahi for rent,2026-05-30 13:30:12
+Mabushi,4,15000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Mabushi for rent,2026-05-30 13:30:12
+Kaura,2,7500000,Apartment,Apartment,2bdrm Block of Flats in Kaura for rent,2026-05-30 13:30:12
+Life Camp,3,6000000,House,House,3bdrm Bungalow in Life Camp for rent,2026-05-30 13:30:12
+Gaduwa,4,10000000,Duplex,Detached Duplex,4bdrm Duplex in Gaduwa for rent,2026-05-30 13:30:12
+Durumi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Durumi for rent,2026-05-30 13:30:20
+Maitama,3,200000000,Apartment,Apartment,3bdrm Block of Flats in Maitama for rent,2026-05-30 13:30:20
+Life Camp,6,25000000,House,House,6bdrm House in Life Camp for rent,2026-05-30 13:30:20
+Jabi,3,12000000,Apartment,Apartment,3bdrm Apartment in Jabi for rent,2026-05-30 13:30:20
+Jabi,4,60000000,House,House,Furnished 4bdrm House in Jabi for rent,2026-05-30 13:30:20
+Kubwa,2,3500000,Apartment,Apartment,2bdrm Block of Flats in Kubwa for rent,2026-05-30 13:30:20
+Life Camp,2,6000000,Apartment,Apartment,"2bdrm Block of Flats in Paradise Estate, Life Camp for rent",2026-05-30 13:30:20
+Jahi,5,17000000,Duplex,Detached Duplex,"5bdrm Duplex in Jahi Gilmore,Fct for rent",2026-05-30 13:30:20
+Wuye,10,65000000,Duplex,Detached Duplex,10bdrm Duplex in Wuye for rent,2026-05-30 13:30:20
+Wuye,6,60000000,Duplex,Detached Duplex,"6bdrm Duplex in Asokoro District, Wuye for rent",2026-05-30 13:30:20
+Utako,2,18000000,House,House,Furnished 2bdrm Bedsitter in Main Utako for rent,2026-05-30 13:30:20
+Durumi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Durumi for rent,2026-05-30 13:30:20
+Maitama,5,60000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:30:20
+Jahi,4,20000000,Duplex,Detached Duplex,4bdrm Duplex in Jahi for rent,2026-05-30 13:30:20
+Kubwa,2,3500000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:30:20
+Kubwa,2,3500000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:30:29
+Jahi,1,1200000,Apartment,Apartment,Furnished 1bdrm Apartment in Jahi for rent,2026-05-30 13:30:29
+Kado,4,20000000,Duplex,Detached Duplex,4bdrm Duplex in Kado Before Life for rent,2026-05-30 13:30:29
+Asokoro,5,25000000,Duplex,Detached Duplex,5bdrm Duplex in Asokoro for rent,2026-05-30 13:30:29
+Maitama,3,20000000,Duplex,Terraced Duplex,"3bdrm Townhouse / Terrace in Main Maita, Maitama for rent",2026-05-30 13:30:29
+Jabi,4,25000000,Duplex,Detached Duplex,4bdrm Duplex in Jabi Main for rent,2026-05-30 13:30:29
+Durumi,2,6000000,Apartment,Apartment,2bdrm Block of Flats in Durumi for rent,2026-05-30 13:30:29
+Durumi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Durumi for rent,2026-05-30 13:30:29
+Kubwa,2,3000000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:30:29
+Jabi,3,68250000,Apartment,Apartment,Furnished 3bdrm Apartment in Jabi By Lakeview for rent,2026-05-30 13:30:29
+Durumi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Durumi for rent,2026-05-30 13:30:29
+Maitama,3,200000000,Apartment,Apartment,3bdrm Block of Flats in Maitama for rent,2026-05-30 13:30:29
+Life Camp,6,25000000,House,House,6bdrm House in Life Camp for rent,2026-05-30 13:30:29
+Gwarinpa,5,12000000,Duplex,Detached Duplex,"5bdrm Duplex in Harmony Estate, Gwarinpa for rent",2026-05-30 13:30:38
+Mabushi,1,3500000,Apartment,Self Contain,Studio Apartment in Mabushi for rent,2026-05-30 13:30:38
+Jabi,3,18000000,Duplex,Detached Duplex,Furnished 3bdrm Duplex in Jabi District for rent,2026-05-30 13:30:38
+Utako,1,2000000,Apartment,Self Contain,Studio Apartment in Utako for rent,2026-05-30 13:30:38
+Life Camp,2,5000000,Apartment,Apartment,2bdrm Apartment in Lifecamp for rent,2026-05-30 13:30:38
+Jabi,2,60000000,Apartment,Apartment,2bdrm Block of Flats in Jabi for rent,2026-05-30 13:30:38
+Durumi,3,8000000,Apartment,Apartment,3bdrm Block of Flats in Durumi for rent,2026-05-30 13:30:38
+Maitama,3,45500000,Apartment,Apartment,Furnished 3bdrm Apartment in Maitama for rent,2026-05-30 13:30:38
+Asokoro,6,75000000,Duplex,Detached Duplex,6bdrm Duplex in Asokoro for rent,2026-05-30 13:30:38
+Katampe,4,14000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Katampe Main for rent,2026-05-30 13:30:38
+Kado,5,20000000,Duplex,Detached Duplex,5bdrm Duplex in Kado By Lake View for rent,2026-05-30 13:30:38
+Jabi,4,22000000,Duplex,Detached Duplex,"4bdrm Duplex in Life Camp Closed To, Jabi for rent",2026-05-30 13:30:38
+Life Camp,3,10000000,House,House,3bdrm Farm House in Life Camp After for rent,2026-05-30 13:30:38
+Life Camp,1,10500000,Apartment,Apartment,1bdrm Apartment in Life Camp for rent,2026-05-30 13:30:38
+Utako,5,30000000,Duplex,Terraced Duplex,"5bdrm Townhouse / Terrace in Main Wuye, Utako for rent",2026-05-30 13:30:38
+Mabushi,2,120000000,Apartment,Apartment,2bdrm Apartment in Mabushi Close To for rent,2026-05-30 13:30:38
+Asokoro,12,60000000,Duplex,Detached Duplex,12bdrm Duplex in Main Asokoro for rent,2026-05-30 13:30:38
+Wuye,4,120000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Main Wuye for rent,2026-05-30 13:30:38
+Maitama,1,15000000,Apartment,Apartment,Furnished 1bdrm Apartment in Maitama Main for rent,2026-05-30 13:30:45
+Wuye,3,20000000,Apartment,Apartment,3bdrm Apartment in Wuye District for rent,2026-05-30 13:30:45
+Life Camp,3,5000000,Apartment,Apartment,3bdrm Apartment in Luxiar Apartments for rent,2026-05-30 13:30:45
+Maitama,3,30000000,Apartment,Apartment,3bdrm Apartment in Maitama District for rent,2026-05-30 13:30:45
+Maitama,2,22000000,House,House,Furnished 2bdrm Bungalow in Main Maitama for rent,2026-05-30 13:30:45
+Wuye,4,25000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Wuye Main for rent,2026-05-30 13:30:45
+Utako,6,40000000,Duplex,Detached Duplex,6bdrm Duplex in Utako for rent,2026-05-30 13:30:45
+Maitama,3,112000000,Duplex,Detached Duplex,Furnished 3bdrm Duplex in Maitama District for rent,2026-05-30 13:30:45
+Wuye,4,15000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Wuye for rent,2026-05-30 13:30:45
+Life Camp,3,8000000,Apartment,Apartment,3bdrm Apartment in Life Camp By Air for rent,2026-05-30 13:30:45
+Maitama,3,180000000,Apartment,Apartment,3bdrm Apartment in Maitama District for rent,2026-05-30 13:30:45
+Utako,3,8500000,Apartment,Apartment,3bdrm Apartment in Utako District for rent,2026-05-30 13:30:45
+Wuye,3,10000000,Apartment,Apartment,3bdrm Apartment in Wuye District for rent,2026-05-30 13:30:45
+Jabi,3,22000000,Duplex,Terraced Duplex,3bdrm Townhouse / Terrace in Main Jabi for rent,2026-05-30 13:30:45
+Life Camp,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Jabi Life Camp for rent,2026-05-30 13:30:45
+Maitama,2,15000000,House,House,2bdrm Bungalow in Maitama for rent,2026-05-30 13:30:45
+Jabi,2,22000000,Apartment,Apartment,Furnished 2bdrm Apartment in Main Jabi for rent,2026-05-30 13:30:45
+Utako,3,8500000,Apartment,Apartment,3bdrm Apartment in Utako District for rent,2026-05-30 13:30:54
+Wuye,3,10000000,Apartment,Apartment,3bdrm Apartment in Wuye District for rent,2026-05-30 13:30:54
+Jabi,3,22000000,Duplex,Terraced Duplex,3bdrm Townhouse / Terrace in Main Jabi for rent,2026-05-30 13:30:54
+Jabi,3,15000000,Duplex,Detached Duplex,3bdrm Duplex in Jabi for rent,2026-05-30 13:30:54
+Life Camp,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Jabi Life Camp for rent,2026-05-30 13:30:54
+Jabi,2,22000000,Apartment,Apartment,Furnished 2bdrm Apartment in Main Jabi for rent,2026-05-30 13:30:54
+Maitama,2,15000000,House,House,2bdrm Bungalow in Maitama for rent,2026-05-30 13:30:54
+Maitama,2,25000000,Apartment,Apartment,2bdrm Apartment in Main Maitama for rent,2026-05-30 13:30:54
+Maitama,5,140000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama District for rent,2026-05-30 13:30:54
+Jabi,4,22000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Main Jabi for rent,2026-05-30 13:30:54
+Jahi,2,8000000,Apartment,Apartment,2bdrm Apartment in Jahi Gimoh for rent,2026-05-30 13:30:54
+Jabi,2,160000000,Apartment,Apartment,Furnished 2bdrm Apartment in Jabi for rent,2026-05-30 13:30:54
+Wuye,3,13000000,Apartment,Apartment,3bdrm Apartment in Main Wuye for rent,2026-05-30 13:30:54
+Wuye,4,25000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Wuye District for rent,2026-05-30 13:30:54
+Wuye,3,15000000,Duplex,Terraced Duplex,3bdrm Townhouse / Terrace in Wuye District for rent,2026-05-30 13:30:54
+Wuye,3,10000000,Apartment,Apartment,3bdrm Apartment in Wuye District for rent,2026-05-30 13:30:54
+Wuye,3,10000000,Apartment,Apartment,3bdrm Apartment in Main  Wuye for rent,2026-05-30 13:30:54
+Life Camp,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Life Camp for rent,2026-05-30 13:30:54
+Jahi,3,72000000,Apartment,Apartment,3bdrm Apartment in Main Jahi for rent,2026-05-30 13:30:54
+Jabi,4,180000000,House,House,4bdrm Bedsitter in Jabi District for rent,2026-05-30 13:30:54
+Maitama,3,180000000,Apartment,Apartment,3bdrm Apartment in Maitama District for rent,2026-05-30 13:30:54
+Gudu,3,65000000,House,House,3bdrm House in Gudu for rent,2026-05-30 13:31:02
+Gwarinpa,4,17000000,Duplex,Detached Duplex,"4bdrm Duplex in Gwarimpa Estate Fct, Gwarinpa for rent",2026-05-30 13:31:02
+Kubwa,1,1200000,Apartment,Self Contain,"Furnished Studio Apartment in F01, Kubwa for rent",2026-05-30 13:31:02
+Kubwa,4,7500000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in F01, Kubwa for rent",2026-05-30 13:31:02
+Jabi,4,180000000,House,House,4bdrm Bedsitter in Jabi District for rent,2026-05-30 13:31:02
+Mabushi,5,200000000,Duplex,Detached Duplex,5bdrm Duplex in Mabushi Close To for rent,2026-05-30 13:31:02
+Asokoro,3,35000000,Apartment,Apartment,3bdrm Block of Flats in Asokoro for rent,2026-05-30 13:31:02
+Maitama,3,180000000,Apartment,Apartment,3bdrm Apartment in Maitama District for rent,2026-05-30 13:31:02
+Asokoro,2,26000000,Apartment,Apartment,Furnished 2bdrm Apartment in Asokoro for rent,2026-05-30 13:31:02
+Wuye,5,30000000,Duplex,Detached Duplex,5bdrm Duplex in Wuye for rent,2026-05-30 13:31:02
+Life Camp,2,6000000,Apartment,Apartment,"2bdrm Block of Flats in Paradise Estate, Life Camp for rent",2026-05-30 13:31:02
+Life Camp,3,10000000,Duplex,Detached Duplex,3bdrm Duplex in Life Camp for rent,2026-05-30 13:31:09
+Mabushi,4,15000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Mabushi for rent,2026-05-30 13:31:09
+Jahi,3,20000000,Apartment,Apartment,Furnished 3bdrm Block of Flats in Jahi for rent,2026-05-30 13:31:09
+Galadimawa,4,10000000,Duplex,Detached Duplex,4bdrm Duplex in Galadimawa for rent,2026-05-30 13:31:09
+Wuye,6,25000000,Duplex,Detached Duplex,"Furnished 6bdrm Duplex in Jessy Street, Wuye for rent",2026-05-30 13:31:09
+Jahi,3,15000000,Apartment,Apartment,3bdrm Apartment in Jahi Gilmore for rent,2026-05-30 13:31:09
+Maitama,5,44999999,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:31:09
+Jahi,3,10000000,Apartment,Apartment,"Furnished 3bdrm Block of Flats in Gilmo, Jahi for rent",2026-05-30 13:31:09
+Katampe,4,25000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Katampe for rent,2026-05-30 13:31:09
+Gwarinpa,1,3450000,Apartment,Self Contain,Furnished Studio Apartment in Gwarinpa for rent,2026-05-30 13:31:09
+Wuye,4,25000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Wuye for rent,2026-05-30 13:31:09
+Kaura,3,5000000,Apartment,Apartment,3bdrm Block of Flats in Kaura for rent,2026-05-30 13:31:09
+Maitama,3,25000000,Apartment,Apartment,Furnished 3bdrm Apartment in Maitama for rent,2026-05-30 13:31:09
+Mabushi,4,20000000,Duplex,Detached Duplex,4bdrm Duplex in Mabushi for rent,2026-05-30 13:31:15
+Maitama,3,25000000,Duplex,Detached Duplex,"Furnished 3bdrm Duplex in Wikki Estate, Maitama for rent",2026-05-30 13:31:15
+Katampe,5,25000000,Duplex,Detached Duplex,"5bdrm Duplex in Nuggy, Katampe for rent",2026-05-30 13:31:15
+Wuye,3,150000000,Apartment,Apartment,3bdrm Apartment in Wuye for rent,2026-05-30 13:31:15
+Maitama,5,50000000,Duplex,Detached Duplex,Furnished 5bdrm Duplex in Maitama for rent,2026-05-30 13:31:15
+Asokoro,4,18000000,Duplex,Detached Duplex,"4bdrm Duplex in Naf Valley Estate, Asokoro for rent",2026-05-30 13:31:15
+Kado,4,19999999,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Kado for rent,2026-05-30 13:31:15
+Life Camp,1,3000000,House,House,1bdrm Room & Parlour in After Berger Clinic for rent,2026-05-30 13:31:15
+Durumi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Durumi for rent,2026-05-30 13:31:15
+Maitama,1,5000000,House,House,1bdrm Room & Parlour in Maitama for rent,2026-05-30 13:31:15
+Wuye,2,6500000,Apartment,Apartment,2bdrm Block of Flats in Wuye for rent,2026-05-30 13:31:15
+Jahi,2,22000000,Apartment,Apartment,Furnished 2bdrm Apartment in Jahi for rent,2026-05-30 13:31:15
+Gwarinpa,5,10000000,Duplex,Detached Duplex,"5bdrm Duplex in Orange Estate Off, Gwarinpa for rent",2026-05-30 13:31:15
+Mabushi,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Mabushi for rent,2026-05-30 13:31:15
+Jahi,4,13000000,Duplex,Detached Duplex,"4bdrm Duplex in Grace Bovlevard, Jahi for rent",2026-05-30 13:31:22
+Durumi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Durumi for rent,2026-05-30 13:31:22
+Mabushi,2,8000000,Apartment,Apartment,2bdrm Apartment in Mabushi Abuja for rent,2026-05-30 13:31:22
+Maitama,6,100000000,Duplex,Detached Duplex,6bdrm Duplex in Maitama for rent,2026-05-30 13:31:22
+Gwarinpa,1,790500,Apartment,Self Contain,Furnished Studio Apartment in Gwarinpa for rent,2026-05-30 13:31:22
+Maitama,3,200000000,Apartment,Apartment,3bdrm Block of Flats in Maitama for rent,2026-05-30 13:31:22
+Utako,3,15000000,Duplex,Detached Duplex,3bdrm Duplex in Utako for rent,2026-05-30 13:31:22
+Maitama,4,40000000,Duplex,Terraced Duplex,Furnished 4bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:31:22
+Wuye,2,15000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Wuye for rent,2026-05-30 13:31:22
+Kubwa,4,9000000,Duplex,Detached Duplex,Furnished 4bdrm Duplex in Hill View Community for rent,2026-05-30 13:31:22
+Jabi,3,200000000,Apartment,Apartment,3bdrm Apartment in Jabi for rent,2026-05-30 13:31:22
+Maitama,5,28000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:31:22
+Life Camp,1,3500000,House,House,"1bdrm Room & Parlour in Gwarimpa 6Th Avenue, Life Camp for rent",2026-05-30 13:31:22
+Life Camp,1,2000000,Apartment,Apartment,"Mini Flat in Gwarimpa Extension, Life Camp for rent",2026-05-30 13:31:22
+Asokoro,4,28000000,Duplex,Detached Duplex,4bdrm Duplex in Asokoro Fct for rent,2026-05-30 13:31:22
+Wuye,4,18000000,Duplex,Detached Duplex,4bdrm Duplex in Wuye for rent,2026-05-30 13:31:22
+Asokoro,2,5000000,Apartment,Apartment,2bdrm Block of Flats in Asokoro for rent,2026-05-30 13:31:27
+Life Camp,1,3500000,House,House,"1bdrm Room & Parlour in Gwarimpa 6Th Avenue, Life Camp for rent",2026-05-30 13:31:27
+Life Camp,1,2000000,Apartment,Apartment,"Mini Flat in Gwarimpa Extension, Life Camp for rent",2026-05-30 13:31:27
+Asokoro,7,150000000,Duplex,Detached Duplex,Furnished 7bdrm Duplex in Asokoro for rent,2026-05-30 13:31:27
+Jabi,2,42000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Jabi for rent,2026-05-30 13:31:27
+Jabi,3,48000000,Apartment,Apartment,Furnished 3bdrm Block of Flats in Jabi for rent,2026-05-30 13:31:27
+Jabi,5,60000000,Duplex,Detached Duplex,5bdrm Duplex in Jabi for rent,2026-05-30 13:31:27
+Maitama,3,45000000,Duplex,Terraced Duplex,3bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:31:27
+Mabushi,4,15000000,Apartment,Apartment,4bdrm Block of Flats in Mabushi for rent,2026-05-30 13:31:27
+Wuye,4,20000000,Duplex,Detached Duplex,Furnished 4bdrm Duplex in Wuye for rent,2026-05-30 13:31:27
+Idu,3,6000000,Apartment,Apartment,3bdrm Apartment in Idu for rent,2026-05-30 13:31:27
+Kubwa,2,2500000,House,House,2bdrm Bungalow in Kubwa for rent,2026-05-30 13:31:27
+Jahi,5,17000000,Duplex,Detached Duplex,"5bdrm Duplex in Jahi Gilmore,Fct for rent",2026-05-30 13:31:27
+Gwarinpa,3,10000000,Duplex,Detached Duplex,"3bdrm Duplex in Gwarimpa Estate,Fct, Gwarinpa for rent",2026-05-30 13:31:27
+Idu,2,4000000,Apartment,Apartment,2bdrm Block of Flats in Idu Main for rent,2026-05-30 13:31:27
+Mabushi,1,7000000,Apartment,Apartment,Furnished 1bdrm Block of Flats in Mabushi for rent,2026-05-30 13:31:27
+Kubwa,4,5000000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in F01, Kubwa for rent",2026-05-30 13:31:27
+Jahi,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Jahi Gilmore Very for rent,2026-05-30 13:31:33
+Life Camp,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Jabi Life Camp for rent,2026-05-30 13:31:33
+Jabi,2,22000000,Apartment,Apartment,Furnished 2bdrm Apartment in Main Jabi for rent,2026-05-30 13:31:33
+Jahi,2,12000000,Apartment,Apartment,Furnished 2bdrm Apartment in Jahi Gilmore for rent,2026-05-30 13:31:33
+Jahi,2,7000000,Apartment,Apartment,2bdrm Apartment in Main Jahi for rent,2026-05-30 13:31:33
+Asokoro,4,25000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Asokoro for rent,2026-05-30 13:31:33
+Maitama,4,25000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:31:33
+Life Camp,2,6000000,Apartment,Apartment,2bdrm Block of Flats in Life  Camp  Estate for rent,2026-05-30 13:31:33
+Jabi,2,160000000,Apartment,Apartment,Furnished 2bdrm Apartment in Jabi for rent,2026-05-30 13:31:33
+Wuye,3,10500000,Apartment,Apartment,3bdrm Block of Flats in Main Wuye for rent,2026-05-30 13:31:33
+Kubwa,2,4000000,Apartment,Apartment,"Furnished 2bdrm Block of Flats in F01, Kubwa for rent",2026-05-30 13:31:33
+Galadimawa,4,8000000,Duplex,Detached Duplex,"Furnished 4bdrm Duplex in Spring Boulevard, Galadimawa for rent",2026-05-30 13:31:33
+Kubwa,2,3500000,Apartment,Apartment,"Furnished 2bdrm Block of Flats in F01, Kubwa for rent",2026-05-30 13:31:33
+Life Camp,2,9000000,Apartment,Apartment,Furnished 2bdrm Apartment in Lifecamp for rent,2026-05-30 13:31:33
+Asokoro,4,25000000,Duplex,Detached Duplex,4bdrm Duplex in Asokoro for rent,2026-05-30 13:31:39
+Maitama,4,50000000,Duplex,Terraced Duplex,Furnished 4bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:31:39
+Maitama,1,27000000,Apartment,Apartment,Furnished 1bdrm Apartment in Maitama for rent,2026-05-30 13:31:39
+Maitama,4,30000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:31:39
+Kado,3,18000000,House,House,Furnished 3bdrm Bungalow in Kado Estate Phase 1 for rent,2026-05-30 13:31:39
+Maitama,7,100000000,Duplex,Detached Duplex,7bdrm Duplex in Maitama for rent,2026-05-30 13:31:39
+Wuye,2,15000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Wuye for rent,2026-05-30 13:31:39
+Wuye,4,18000000,Duplex,Detached Duplex,4bdrm Duplex in Wuye for rent,2026-05-30 13:31:39
+Asokoro,2,10000000,House,House,"2bdrm Bungalow in Abuja, Asokoro for rent",2026-05-30 13:31:39
+Asokoro,7,150000000,Duplex,Detached Duplex,Furnished 7bdrm Duplex in Asokoro for rent,2026-05-30 13:31:39
+Asokoro,1,3500000,House,House,1bdrm Bungalow in Asokoro for rent,2026-05-30 13:31:39
+Karu,1,800000,Apartment,Apartment,1bdrm Apartment in Karu for rent,2026-05-30 13:31:39
+Karu,1,400000,Apartment,Self Contain,Studio Apartment in Karu for rent,2026-05-30 13:31:39
+Karu,1,350000,Apartment,Self Contain,Studio Apartment in Karu for rent,2026-05-30 13:31:39
+Utako,1,5000000,Apartment,Apartment,1bdrm Block of Flats in Utako for rent,2026-05-30 13:31:44
+Kubwa,2,3500000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:31:44
+Kubwa,2,5000000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:31:44
+Kaura,3,6000000,House,House,"Furnished 3bdrm Bungalow in Valley City Estate, Kaura for rent",2026-05-30 13:31:44
+Durumi,1,3000000,Apartment,Apartment,"1bdrm Apartment in Swan Street, Durumi for rent",2026-05-30 13:31:44
+Kado,4,20000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Kado for rent,2026-05-30 13:31:44
+Kado,6,18000000,House,House,6bdrm Bungalow in Kado for rent,2026-05-30 13:31:44
+Jahi,2,9000000,Apartment,Apartment,2bdrm Apartment in Jahi Gilmore for rent,2026-05-30 13:31:44
+Wuye,2,6500000,Apartment,Apartment,2bdrm Block of Flats in Wuye for rent,2026-05-30 13:31:44
+Gaduwa,3,4500000,Apartment,Apartment,"Furnished 3bdrm Apartment in Mustapha Crescent, Gaduwa for rent",2026-05-30 13:31:44
+Maitama,4,45000000,Apartment,Apartment,4bdrm Block of Flats in Maitama Property for rent,2026-05-30 13:31:44
+Gwarinpa,5,14000000,Duplex,Detached Duplex,"5bdrm Duplex in Gwarimpa Estate By, Gwarinpa for rent",2026-05-30 13:31:44
+Maitama,4,25000000,Duplex,Detached Duplex,4bdrm Duplex in Maitama Property for rent,2026-05-30 13:31:44
+Jahi,4,20000000,Duplex,Detached Duplex,"4bdrm Duplex in Jahi Gilmore,Fct for rent",2026-05-30 13:31:44
+Asokoro,4,27000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Asokoro for rent,2026-05-30 13:31:44
+Gwarinpa,5,18000000,House,House,"5bdrm Mansion in Efab Metropolitan, Gwarinpa for rent",2026-05-30 13:31:44
+Kubwa,3,6500000,Apartment,Apartment,"Furnished 3bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:31:44
+Asokoro,4,17000000,Duplex,Detached Duplex,4bdrm Duplex in Asokoro for rent,2026-05-30 13:31:44
+Maitama,3,180000000,Apartment,Apartment,3bdrm Apartment in Maitama District for rent,2026-05-30 13:31:50
+Kaura,3,6500000,Apartment,Apartment,"Furnished 3bdrm Apartment in Mustapha Street, Kaura for rent",2026-05-30 13:31:50
+Galadimawa,4,10000000,Duplex,Detached Duplex,4bdrm Duplex in Galadimawa for rent,2026-05-30 13:31:50
+Asokoro,1,4500000,House,House,"1bdrm Bungalow in Naf Valley Estate, Asokoro for rent",2026-05-30 13:31:50
+Maitama,4,30000000,Duplex,Detached Duplex,4bdrm Duplex in Maitama for rent,2026-05-30 13:31:50
+Asokoro,2,6000000,Apartment,Apartment,2bdrm Block of Flats in Asokoro for rent,2026-05-30 13:31:50
+Karu,1,800000,Apartment,Apartment,1bdrm Apartment in Karu for rent,2026-05-30 13:31:50
+Karu,1,1200000,Apartment,Apartment,1bdrm Apartment in Karu for rent,2026-05-30 13:31:50
+Karu,3,2000000,House,House,3bdrm Bungalow in Karu for rent,2026-05-30 13:31:50
+Maitama,3,45000000,Duplex,Terraced Duplex,3bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:31:50
+Gwarinpa,3,8000000,House,House,"3bdrm Bungalow in Efab Verizon, Gwarinpa for rent",2026-05-30 13:31:50
+Jahi,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Jahi Gilmore,Very for rent",2026-05-30 13:31:50
+Gwarinpa,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Gwarimpa Estate Fct, Gwarinpa for rent",2026-05-30 13:31:50
+Idu,5,350000000,Duplex,Detached Duplex,"5bdrm Duplex in In A Private Estate, Idu for rent",2026-05-30 13:31:50
+Kubwa,2,4000000,Apartment,Apartment,"2bdrm Block of Flats in Main Fo1, Kubwa for rent",2026-05-30 13:31:57
+Gwarinpa,3,12000000,House,House,"3bdrm Bungalow in Efab Queen, Gwarinpa for rent",2026-05-30 13:31:57
+Kubwa,2,4500000,Duplex,Terraced Duplex,"2bdrm Townhouse / Terrace in Fo1, Kubwa for rent",2026-05-30 13:31:57
+Maitama,4,40000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:31:57
+Life Camp,2,6000000,Apartment,Apartment,2bdrm Block of Flats in Life  Camp  Estate for rent,2026-05-30 13:31:57
+Kaura,3,6500000,Apartment,Apartment,"Furnished 3bdrm Apartment in Mustapha Street, Kaura for rent",2026-05-30 13:31:57
+Wuye,6,25000000,Duplex,Detached Duplex,"Furnished 6bdrm Duplex in Jessy Street, Wuye for rent",2026-05-30 13:31:57
+Maitama,1,5500000,Apartment,Apartment,1bdrm Block of Flats in Maitama for rent,2026-05-30 13:31:57
+Life Camp,3,7500000,Duplex,Detached Duplex,3bdrm Duplex in Life Camp for rent,2026-05-30 13:31:57
+Asokoro,2,10000000,Apartment,Apartment,2bdrm Apartment in Asokoro for rent,2026-05-30 13:31:57
+Karu,1,1350000,Apartment,Apartment,1bdrm Apartment in Nurses Estate City for rent,2026-05-30 13:31:57
+Karu,1,700000,House,House,1bdrm Room & Parlour in Karu for rent,2026-05-30 13:31:57
+Karu,1,1200000,Apartment,Apartment,"1bdrm Apartment in Nurses Estate, Karu for rent",2026-05-30 13:31:57
+Maitama,5,60000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:31:57
+Jahi,3,75000000,Apartment,Apartment,3bdrm Block of Flats in Jahi for rent,2026-05-30 13:31:57
+Karu,2,5000000,Apartment,Apartment,2bdrm Block of Flats in Karu for rent,2026-05-30 13:32:05
+Jahi,3,8500000,Apartment,Apartment,3bdrm Block of Flats in Jahi for rent,2026-05-30 13:32:05
+Kubwa,2,3500000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:32:05
+Gwarinpa,3,12000000,House,House,"3bdrm Bungalow in Efab Queen Estate, Gwarinpa for rent",2026-05-30 13:32:05
+Katampe,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Katampe for rent,2026-05-30 13:32:05
+Gwarinpa,4,11000000,Duplex,Detached Duplex,"4bdrm Duplex in Gwarimpa Estate Fct, Gwarinpa for rent",2026-05-30 13:32:05
+Asokoro,6,65000000,Duplex,Detached Duplex,6bdrm Duplex in Asokoro Property for rent,2026-05-30 13:32:05
+Kubwa,2,4000000,Apartment,Apartment,"2bdrm Block of Flats in Main Fo1, Kubwa for rent",2026-05-30 13:32:05
+Lokogoma,2,4000000,Apartment,Apartment,"Furnished 2bdrm Block of Flats in Pries Estate, Lokogoma for rent",2026-05-30 13:32:05
+Idu,3,9000000,Apartment,Apartment,Furnished 3bdrm Apartment in Idu for rent,2026-05-30 13:32:05
+Jahi,3,10000000,Apartment,Apartment,3bdrm Block of Flats in Jahi Gilmore for rent,2026-05-30 13:32:05
+Wuye,3,10000000,Apartment,Apartment,3bdrm Apartment in Wuye for rent,2026-05-30 13:32:05
+Jahi,3,14000000,Apartment,Apartment,Furnished 3bdrm Apartment in Jahi Furnished for rent,2026-05-30 13:32:05
+Wuye,4,25000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Wuye for rent,2026-05-30 13:32:05
+Maitama,2,30000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Maitama Estate for rent,2026-05-30 13:32:05
+Wuye,3,9000000,Apartment,Apartment,"3bdrm Apartment in Kings Street, Wuye for rent",2026-05-30 13:32:05
+Kaura,4,18000000,Duplex,Detached Duplex,"4bdrm Duplex in Games Village, Kaura for rent",2026-05-30 13:32:05
+Asokoro,1,3000000,Apartment,Self Contain,Studio Apartment in Asokoro for rent,2026-05-30 13:32:05
+Maitama,5,65000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:32:05
+Karu,1,1500000,Apartment,Apartment,"1bdrm Apartment in Nurses Estate Phase, Karu for rent",2026-05-30 13:32:11
+Jahi,3,10000000,Apartment,Apartment,3bdrm Block of Flats in Jahi for rent,2026-05-30 13:32:11
+Jahi,3,18000000,Duplex,Terraced Duplex,3bdrm Townhouse / Terrace in Jahi for rent,2026-05-30 13:32:11
+Gwarinpa,3,15000000,Duplex,Detached Duplex,"Furnished 3bdrm Duplex in Gwarimpa Extension, Gwarinpa for rent",2026-05-30 13:32:11
+Kubwa,2,3000000,Apartment,Apartment,"2bdrm Block of Flats in Non, Kubwa for rent",2026-05-30 13:32:11
+Gwarinpa,4,11000000,Duplex,Detached Duplex,"4bdrm Duplex in Gwarimpa Estate,Fct, Gwarinpa for rent",2026-05-30 13:32:11
+Jahi,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Jahi Gilmore,Very for rent",2026-05-30 13:32:11
+Utako,4,17000000,Duplex,Terraced Duplex,Furnished 4bdrm Townhouse / Terrace in Utako for rent,2026-05-30 13:32:11
+Maitama,3,13500000,Apartment,Apartment,Furnished 3bdrm Block of Flats in Maitama Apartment for rent,2026-05-30 13:32:11
+Galadimawa,3,7000000,Duplex,Detached Duplex,"3bdrm Duplex in Grace Valley Estate, Galadimawa for rent",2026-05-30 13:32:11
+Gaduwa,3,4500000,Apartment,Apartment,"Furnished 3bdrm Apartment in Mustapha Crescent, Gaduwa for rent",2026-05-30 13:32:11
+Asokoro,4,25000000,Duplex,Detached Duplex,"4bdrm Duplex in Naf Valley Estate, Asokoro for rent",2026-05-30 13:32:11
+Asokoro,2,6000000,Apartment,Apartment,2bdrm Block of Flats in Asokoro for rent,2026-05-30 13:32:11
+Karu,1,500000,Apartment,Apartment,1bdrm Apartment in Karu for rent,2026-05-30 13:32:11
+Jabi,2,6000000,Apartment,Apartment,2bdrm Block of Flats in Jabi for rent,2026-05-30 13:32:16
+Karu,1,650000,House,House,1bdrm Room & Parlour in Karu for rent,2026-05-30 13:32:16
+Asokoro,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Asokoro for rent,2026-05-30 13:32:16
+Karu,1,700000,House,House,1bdrm Room & Parlour in Karu for rent,2026-05-30 13:32:16
+Karu,1,800000,Apartment,Apartment,1bdrm Apartment in Karu for rent,2026-05-30 13:32:16
+Kaura,3,6500000,Apartment,Apartment,"Furnished 3bdrm Apartment in Mustapha Street, Kaura for rent",2026-05-30 13:32:16
+Jahi,3,8500000,Apartment,Apartment,3bdrm Block of Flats in Jahi for rent,2026-05-30 13:32:16
+Asokoro,8,70000000,Duplex,Detached Duplex,8bdrm Duplex in Asokoro for rent,2026-05-30 13:32:16
+Kubwa,2,3500000,Apartment,Apartment,2bdrm Block of Flats in Kubwa for rent,2026-05-30 13:32:16
+Kubwa,2,5000000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:32:16
+Life Camp,3,68000000,Apartment,Apartment,3bdrm Block of Flats in Life Camp Abuja for rent,2026-05-30 13:32:16
+Life Camp,3,7500000,Apartment,Apartment,3bdrm Apartment in Life Camp for rent,2026-05-30 13:32:16
+Jabi,3,35000000,Apartment,Apartment,Furnished 3bdrm Apartment in Jabi for rent,2026-05-30 13:32:16
+Idu,3,9000000,Apartment,Apartment,Furnished 3bdrm Apartment in Idu for rent,2026-05-30 13:32:16
+Life Camp,5,14000000,Duplex,Detached Duplex,5bdrm Duplex in Life Camp Tarred for rent,2026-05-30 13:32:16
+Jahi,3,14000000,Apartment,Apartment,Furnished 3bdrm Apartment in Jahi Furnished for rent,2026-05-30 13:32:16
+Maitama,6,90000000,Duplex,Detached Duplex,6bdrm Duplex in Maitama Property for rent,2026-05-30 13:32:16
+Maitama,2,30000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Maitama Estate for rent,2026-05-30 13:32:16
+Maitama,3,10000000,Apartment,Apartment,3bdrm Apartment in Maitama for rent,2026-05-30 13:32:16
+Asokoro,2,7000000,Apartment,Apartment,"2bdrm Apartment in Naf Valley Estate, Asokoro for rent",2026-05-30 13:32:16
+Wuye,4,20000000,Duplex,Terraced Duplex,Furnished 4bdrm Townhouse / Terrace in Main Wuye for rent,2026-05-30 13:32:16
+Kaura,3,6500000,Apartment,Apartment,"Furnished 3bdrm Apartment in Mustapha Street, Kaura for rent",2026-05-30 13:32:24
+Karu,1,1350000,Apartment,Apartment,1bdrm Apartment in Nurses Estate City for rent,2026-05-30 13:32:24
+Karu,1,700000,House,House,1bdrm Room & Parlour in Karu for rent,2026-05-30 13:32:24
+Karu,1,1200000,Apartment,Apartment,"1bdrm Apartment in Nurses Estate, Karu for rent",2026-05-30 13:32:24
+Mabushi,4,13000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Mabushi for rent,2026-05-30 13:32:24
+Jahi,3,12000000,Apartment,Apartment,3bdrm Block of Flats in Jahi for rent,2026-05-30 13:32:24
+Kubwa,2,3000000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:32:24
+Life Camp,5,14000000,Duplex,Detached Duplex,5bdrm Duplex in Life Camp Tarred for rent,2026-05-30 13:32:24
+Kado,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Kado Phase 2,Fct for rent",2026-05-30 13:32:24
+Jahi,3,9000000,Apartment,Apartment,"3bdrm Block of Flats in Jahi Gilmore,Fct for rent",2026-05-30 13:32:24
+Life Camp,4,15000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Life Camp for rent,2026-05-30 13:32:24
+Jabi,7,60000000,Duplex,Detached Duplex,7bdrm Duplex in Jabi Detached Duplex for rent,2026-05-30 13:32:24
+Maitama,4,40000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Maitama for rent,2026-05-30 13:32:24
+Jabi,3,15000000,Apartment,Apartment,Furnished 3bdrm Block of Flats in Jabi Apartment for rent,2026-05-30 13:32:24
+Maitama,6,80000000,Duplex,Detached Duplex,6bdrm Duplex in Maitama Property for rent,2026-05-30 13:32:24
+Asokoro,4,35000000,Duplex,Detached Duplex,4bdrm Duplex in Asokoro for rent,2026-05-30 13:32:24
+Asokoro,2,10000000,Duplex,Detached Duplex,2bdrm Duplex in Naf Valley Estate for rent,2026-05-30 13:32:24
+Asokoro,3,12000000,Apartment,Apartment,3bdrm Apartment in Asokoro for rent,2026-05-30 13:32:24
+Karu,1,1200000,Apartment,Apartment,1bdrm Apartment in Karu for rent,2026-05-30 13:32:24
+Kubwa,2,3500000,Apartment,Apartment,2bdrm Block of Flats in Kubwa for rent,2026-05-30 13:32:33
+Katampe,3,15000000,Apartment,Apartment,3bdrm Block of Flats in Katampe for rent,2026-05-30 13:32:33
+Jahi,5,17000000,Duplex,Detached Duplex,"5bdrm Duplex in Jahi Gilmore,Fct for rent",2026-05-30 13:32:33
+Gwarinpa,3,10000000,Duplex,Detached Duplex,"3bdrm Duplex in Gwarimpa Estate,Fct, Gwarinpa for rent",2026-05-30 13:32:33
+Kado,4,18000000,House,House,4bdrm House in Kado Face 2 Abuja for rent,2026-05-30 13:32:33
+Jahi,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Jahi Property for rent,2026-05-30 13:32:33
+Maitama,5,50000000,Duplex,Detached Duplex,Furnished 5bdrm Duplex in Maitama for rent,2026-05-30 13:32:33
+Maitama,2,20000000,Apartment,Apartment,2bdrm Apartment in Maitama for rent,2026-05-30 13:32:33
+Asokoro,4,12000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Asokoro for rent,2026-05-30 13:32:33
+Maitama,8,50000000,Duplex,Detached Duplex,8bdrm Duplex in Maitama for rent,2026-05-30 13:32:33
+Karu,1,650000,House,House,1bdrm Room & Parlour in Karu for rent,2026-05-30 13:32:33
+Karu,2,2000000,House,House,2bdrm Bungalow in Karu for rent,2026-05-30 13:32:33
+Karu,1,700000,House,House,1bdrm Room & Parlour in Karu for rent,2026-05-30 13:32:33
+Asokoro,3,35000000,Apartment,Apartment,3bdrm Block of Flats in Asokoro for rent,2026-05-30 13:32:33
+Maitama,5,60000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:32:33
+Jahi,3,75000000,Apartment,Apartment,3bdrm Block of Flats in Jahi for rent,2026-05-30 13:32:33
+Kubwa,2,3500000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:32:33
+Asokoro,6,70000000,Duplex,Detached Duplex,Furnished 6bdrm Duplex in Asokoro for rent,2026-05-30 13:32:39
+Karu,1,370000,Apartment,Apartment,1bdrm Apartment in Karu for rent,2026-05-30 13:32:39
+Karu,1,1000000,Apartment,Apartment,1bdrm Apartment in Karu for rent,2026-05-30 13:32:39
+Karu,2,1300000,House,House,"2bdrm Bungalow in Lape Estate, Karu for rent",2026-05-30 13:32:39
+Jahi,3,18000000,Duplex,Terraced Duplex,3bdrm Townhouse / Terrace in Jahi for rent,2026-05-30 13:32:39
+Maitama,3,25000000,Apartment,Apartment,3bdrm Block of Flats in Maitama for rent,2026-05-30 13:32:39
+Life Camp,3,7500000,Apartment,Apartment,3bdrm Block of Flats in Life Camp for rent,2026-05-30 13:32:39
+Jahi,2,12000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Jahi Furnished for rent,2026-05-30 13:32:39
+Jahi,2,250000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Jahi Apartment for rent,2026-05-30 13:32:39
+Katampe,3,15000000,Apartment,Apartment,3bdrm Block of Flats in Katampe for rent,2026-05-30 13:32:39
+Maitama,4,75000000,Duplex,Detached Duplex,4bdrm Duplex in Maitama Property for rent,2026-05-30 13:32:39
+Life Camp,4,15000000,Duplex,Detached Duplex,"4bdrm Duplex in Non, Life Camp for rent",2026-05-30 13:32:39
+Gwarinpa,1,20000000,Duplex,Detached Duplex,"1bdrm Duplex in Gwarimpa Abuja By, Gwarinpa for rent",2026-05-30 13:32:39
+Kubwa,2,3500000,Apartment,Apartment,2bdrm Block of Flats in Kubwa for rent,2026-05-30 13:32:39
+Maitama,8,150000000,House,House,8bdrm Mansion in Maitama for rent,2026-05-30 13:32:39
+Asokoro,6,25000000,Duplex,Detached Duplex,"6bdrm Duplex in Naf Valley Estate, Asokoro for rent",2026-05-30 13:32:39
+Karu,3,3500000,House,House,"3bdrm Bungalow in Nurses Estate, Karu for rent",2026-05-30 13:32:39
+Karu,1,400000,Apartment,Self Contain,Studio Apartment in Karu for rent,2026-05-30 13:32:39
+Karu,1,400000,Apartment,Self Contain,Studio Apartment in Karu for rent,2026-05-30 13:32:39
+Wuye,3,15000000,Apartment,Apartment,3bdrm Apartment in Wuye for rent,2026-05-30 13:32:39
+Maitama,5,35000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama for rent,2026-05-30 13:32:46
+Asokoro,2,5000000,Apartment,Apartment,2bdrm Block of Flats in Asokoro for rent,2026-05-30 13:32:46
+Asokoro,6,48000000,Duplex,Detached Duplex,6bdrm Duplex in Asokoro for rent,2026-05-30 13:32:46
+Karu,1,1500000,Apartment,Apartment,1bdrm Apartment in Nurses Estate Phase for rent,2026-05-30 13:32:46
+Kubwa,2,3500000,Apartment,Apartment,2bdrm Block of Flats in Kubwa for rent,2026-05-30 13:32:46
+Kubwa,2,5000000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:32:46
+Maitama,5,50000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama Estate for rent,2026-05-30 13:32:46
+Maitama,4,25000000,Duplex,Detached Duplex,4bdrm Duplex in Maitama Property for rent,2026-05-30 13:32:46
+Jahi,2,13000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Jahi Property for rent,2026-05-30 13:32:46
+Wuye,2,25000000,Apartment,Apartment,Furnished 2bdrm Apartment in Wuye for rent,2026-05-30 13:32:46
+Life Camp,3,7500000,Apartment,Apartment,3bdrm Apartment in Life Camp for rent,2026-05-30 13:32:46
+Asokoro,5,20000000,Duplex,Detached Duplex,"5bdrm Duplex in Naf Valley Estate, Asokoro for rent",2026-05-30 13:32:46
+Maitama,3,30000000,Apartment,Apartment,3bdrm Block of Flats in Maitama for rent,2026-05-30 13:32:46
+Maitama,2,6000000,House,House,2bdrm Bungalow in Maitama for rent,2026-05-30 13:32:46
+Gwarinpa,3,12000000,House,House,"3bdrm Bungalow in Efab Queen Estate, Gwarinpa for rent",2026-05-30 13:32:46
+Kubwa,2,3500000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:32:46
+Idu,3,9000000,Apartment,Apartment,Furnished 3bdrm Apartment in Idu for rent,2026-05-30 13:32:46
+Gwarinpa,3,12000000,House,House,"3bdrm Bungalow in Efab Queen Estate, Gwarinpa for rent",2026-05-30 13:32:51
+Kubwa,2,3500000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:32:51
+Kubwa,2,3500000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:32:51
+Asokoro,4,40000000,Duplex,Detached Duplex,Furnished 4bdrm Duplex in Asokoro for rent,2026-05-30 13:32:51
+Kado,4,20000000,Duplex,Detached Duplex,4bdrm Duplex in Kado for rent,2026-05-30 13:32:51
+Life Camp,4,250000000,Duplex,Detached Duplex,4bdrm Duplex in Life Camp Property for rent,2026-05-30 13:32:51
+Asokoro,6,20000000,Duplex,Detached Duplex,"6bdrm Duplex in Naf Valley Estate, Asokoro for rent",2026-05-30 13:32:51
+Asokoro,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Asokoro for rent,2026-05-30 13:32:51
+Kubwa,2,3000000,Apartment,Apartment,"2bdrm Block of Flats in Fo1, Kubwa for rent",2026-05-30 13:32:51
+Jabi,2,6000000,Apartment,Apartment,2bdrm Block of Flats in Jabi for rent,2026-05-30 13:32:51
+Asokoro,1,3000000,Apartment,Self Contain,Studio Apartment in Asokoro for rent,2026-05-30 13:32:51
+Maitama,3,10000000,Apartment,Apartment,3bdrm Apartment in Maitama for rent,2026-05-30 13:32:51
+Life Camp,3,7500000,Apartment,Apartment,3bdrm Block of Flats in Life Camp for rent,2026-05-30 13:32:51
+Jahi,2,12000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Jahi Furnished for rent,2026-05-30 13:32:51
+Wuye,3,15000000,Apartment,Apartment,3bdrm Apartment in Wuye for rent,2026-05-30 13:32:51
+Jahi,2,250000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Jahi Apartment for rent,2026-05-30 13:32:51
+Maitama,4,75000000,Duplex,Detached Duplex,4bdrm Duplex in Maitama Property for rent,2026-05-30 13:32:51
+Jabi,2,49000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Jabi Property for rent,2026-05-30 13:32:58
+Jahi,3,8000000,Apartment,Apartment,3bdrm Block of Flats in Jahi Property for rent,2026-05-30 13:32:58
+Jahi,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Jahi Property for rent,2026-05-30 13:32:58
+Wuse,4,70000000,Duplex,Detached Duplex,4bdrm Duplex in Wuse for rent,2026-05-30 13:32:58
+Maitama,8,150000000,House,House,8bdrm Mansion in Maitama for rent,2026-05-30 13:32:58
+Asokoro,6,25000000,Duplex,Detached Duplex,"6bdrm Duplex in Naf Valley Estate, Asokoro for rent",2026-05-30 13:32:58
+Maitama,4,15000000,Duplex,Detached Duplex,4bdrm Duplex in Maitama for rent,2026-05-30 13:32:58
+Asokoro,1,4500000,House,House,"1bdrm Bungalow in Naf Valley Estate, Asokoro for rent",2026-05-30 13:32:58
+Maitama,4,30000000,Duplex,Detached Duplex,4bdrm Duplex in Maitama for rent,2026-05-30 13:32:58
+Maitama,5,50000000,Duplex,Detached Duplex,5bdrm Duplex in Maitama Estate for rent,2026-05-30 13:32:58
+Jahi,2,13000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Jahi Property for rent,2026-05-30 13:32:58
+Life Camp,4,250000000,Duplex,Detached Duplex,4bdrm Duplex in Life Camp Property for rent,2026-05-30 13:32:58
+Asokoro,4,25000000,Duplex,Detached Duplex,"4bdrm Duplex in Naf Valley Estate, Asokoro for rent",2026-05-30 13:32:58
+Asokoro,2,6000000,Apartment,Apartment,2bdrm Block of Flats in Asokoro for rent,2026-05-30 13:32:58
+Asokoro,3,15000000,Duplex,Detached Duplex,Furnished 3bdrm Duplex in Asokoro for rent,2026-05-30 13:32:58
+Asokoro,4,20000000,Duplex,Detached Duplex,4bdrm Duplex in Asokoro for rent,2026-05-30 13:32:58
+Maitama,3,12000000,Apartment,Apartment,Furnished 3bdrm Apartment in Maitama for rent,2026-05-30 13:32:58
+Asokoro,3,10000000,Apartment,Apartment,"3bdrm Block of Flats in Naf Valley Estate, Asokoro for rent",2026-05-30 13:32:58
+Asokoro,4,12000000,Duplex,Terraced Duplex,4bdrm Townhouse / Terrace in Asokoro for rent,2026-05-30 13:32:58
+Maitama,8,50000000,Duplex,Detached Duplex,8bdrm Duplex in Maitama for rent,2026-05-30 13:32:58
+Jabi,4,12000000,Duplex,Detached Duplex,4bdrm Duplex in Jabi for rent,2026-05-30 13:33:04
+Asokoro,1,6500000,Apartment,Self Contain,Furnished Studio Apartment in Asokoro for rent,2026-05-30 13:33:04
+Maitama,4,35000000,Duplex,Detached Duplex,Furnished 4bdrm Duplex in Maitama for rent,2026-05-30 13:33:04
+Asokoro,1,2000000,Apartment,Self Contain,Studio Apartment in Asokoro for rent,2026-05-30 13:33:04
+Maitama,1,5500000,Apartment,Apartment,1bdrm Block of Flats in Maitama for rent,2026-05-30 13:33:04
+Maitama,2,20000000,Apartment,Apartment,Furnished 2bdrm Block of Flats in Maitama for rent,2026-05-30 13:33:04
+Asokoro,2,10599000,Apartment,Apartment,Mini Flat in Asokoro for rent,2026-05-30 13:33:04
+Maitama,3,12000000,Apartment,Apartment,3bdrm Block of Flats in Maitama for rent,2026-05-30 13:33:04
+Life Camp,3,7500000,Duplex,Detached Duplex,3bdrm Duplex in Life Camp for rent,2026-05-30 13:33:04
+Asokoro,5,700000000,Duplex,Detached Duplex,"5bdrm Duplex in Naf Valley Estate, Asokoro for rent",2026-05-30 13:33:04

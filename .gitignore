@@ -4,3 +4,4 @@ __pycache__/
 npc_scraper_activity.log
 ppro_scraper_activity.log
 scraper_activity.log
+data/raw/
