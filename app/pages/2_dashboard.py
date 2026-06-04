@@ -118,7 +118,6 @@ if df is not None:
 
     st.markdown("---")
 
-    # --- NEW CHARTS SECTION ---
     col5, col6 = st.columns(2)
 
     with col5:
@@ -143,7 +142,6 @@ if df is not None:
     with col6:
         st.subheader("Price/Market Tier Distribution")
         
-        # Helper function to categorize market tiers
         def categorize_tier(price):
             if price <= 3_000_000:
                 return "Budget (≤₦3m)"
@@ -158,7 +156,6 @@ if df is not None:
         tier_counts = filtered_df['Market Tier'].value_counts().reset_index()
         tier_counts.columns = ['Market Tier', 'Listing Count']
         
-        # Enforce logical ordering on the x-axis
         tier_order = ["Budget (≤₦3m)", "Mid-Tier (₦3m - ₦10m)", "High-End (₦10m - ₦30m)", "Luxury (>₦30m)"]
         
         fig_tier = px.bar(
@@ -176,7 +173,6 @@ if df is not None:
 
     st.markdown("---")
 
-    # --- GEOGRAPHICAL SECTION ---
     if selected_district_filter == 'All':
         st.subheader("Geographical Pricing Hierarchy (Top 15 Districts)")
         

@@ -1,9 +1,9 @@
-# rent price predictor
 import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
 
+# Set page configuration
 st.set_page_config(page_title="Price Predictor | AMAC Rental Predictor", layout="wide")
 
 @st.cache_resource
@@ -19,7 +19,6 @@ def load_model_assets():
 model, feature_cols = load_model_assets()
 
 def determine_tier(district):
-    # This mirrors the logic you built during feature engineering
     tier_1 = ['Maitama', 'Asokoro', 'Wuse 2', 'Wuse', 'Guzape']
     tier_2 = ['Gwarinpa', 'Jabi', 'Life Camp', 'Katampe', 'Jahi', 'Mabushi', 'Utako', 'Gaduwa', 'Apo', 'Kaura']
     
@@ -51,7 +50,6 @@ if model and feature_cols:
     with col1:
         st.subheader("Property Specifications")
         
-      
         districts = ['Apo', 'Asokoro', 'Central Business District', 'Durumi', 'Gaduwa', 'Galadimawa', 
                      'Garki', 'Guzape', 'Gwarinpa', 'Idu', 'Jabi', 'Jahi', 'Kabo', 'Kado', 'Karmo', 
                      'Karsana', 'Karu', 'Katama', 'Katampe', 'Kaura', 'Kubwa', 'Kukwaba', 'Life Camp', 
@@ -60,8 +58,14 @@ if model and feature_cols:
         property_categories = ['Apartment', 'Duplex', 'Bungalow', 'Self Contain', 'Mini Flat']
         
         selected_district = st.selectbox("Select District", sorted(districts))
-        selected_bedrooms = st.slider("Number of Bedrooms", min_value=1, max_value=6, value=2)
+        
         selected_category = st.selectbox("Property Category", property_categories)
+        
+        if selected_category in ["Self Contain", "Mini Flat"]:
+            selected_bedrooms = 1
+            #st.info("")
+        else:
+            selected_bedrooms = st.slider("Number of Bedrooms", min_value=1, max_value=6, value=2)
         
         predict_button = st.button("Predict Rent", use_container_width=True)
         
@@ -89,7 +93,6 @@ if model and feature_cols:
                 
                 input_df = input_df.astype(float)
                 log_prediction = model.predict(input_df)[0]
-                
                 actual_prediction = np.expm1(log_prediction)
                 
                 st.subheader("Prediction Results")
@@ -109,6 +112,6 @@ if model and feature_cols:
                         value=segment
                     )
                 
-                st.info(f"**Interpretation:** Based on our Random Forest model, a {selected_bedrooms}-bedroom {selected_category} in {selected_district} is currently valued at approximately **₦{actual_prediction:,.0f}** per annum. This aligns with the {segment} tier of the Abuja real estate market.")
+                st.info(f"Based on our Random Forest model, a {selected_bedrooms}-bedroom {selected_category} in {selected_district} is currently valued at approximately **₦{actual_prediction:,.0f}** per annum. This aligns with the {segment} tier of the Abuja real estate market.")
 else:
     st.warning("Please ensure the model files are present to use the predictor.")
