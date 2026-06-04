@@ -6,229 +6,115 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-orange)](https://scikit-learn.org/)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-green)](https://www.crummy.com/software/BeautifulSoup/)
 
-<!-- Replace with actual demo GIF -->
-> 📸 **Screenshot / GIF placeholder** — add `screenshots/demo.gif`.
-
-### Live Demo: [Abuja Rental Market Prediction](#) *(placeholder)*
-
+Link: 
 > ⚠️ **Note:** First load may take 15–30 seconds as the app wakes up from inactivity (free tier). Refresh if needed!
 
-This project is an end-to-end rental market analytics and price prediction tool for Abuja Municipal Area Council(AMAC), the high-demand political and economic hub of Nigeria's capital city. Renters, investors, and property professionals can explore median rent prices across Abuja Municipal Area Council(AMAC) districts, discover pricing patterns by property type and bedroom count, and get data-driven rent estimates through a trained machine learning model all from a single interactive Streamlit dashboard.
+This is an end-to-end project designed to bring transparency to the rental market in the Abuja Municipal Area Council (AMAC). It scrapes the collection of property listings from major Nigerian portals, cleans the data, and serves a Random Forest prediction model through a multipage Streamlit dashboard.
+
+The tool allows users to estimate fair market rent based on district, property type, and bedroom count, helping to bridge the information gap for tenants and real estate professionals in Nigeria's capital.
 
 ---
 
-## 🔍 Overview
+## Technical Overview
 
-- A full-stack data science pipeline that scrapes live rental listings from Nigerian property platforms, cleans and structures the data, and serves both exploratory analytics and rent predictions through a multi-page Streamlit app.
-- Useful for renters benchmarking fair market value, investors tracking AMAC'S district level pricing dynamics, and property professionals who need quick evidence-based rent estimates.
-
-Built as a portfolio project to demonstrate real-world web scraping, data cleaning, feature engineering, and machine learning skills using Nigerian property market data. The project takes raw, messy listing data all the way through to an interactive prediction interface.
-
----
-
-## ✨ Features
-
-- Rent price predictor — input bedrooms, districts, and property type to get an estimated annual rent
-- Interactive EDA dashboard with price distributions, district comparisons, and bedroom-count breakdowns
-- Market insights page highlighting the most expensive and most affordable areas within AMAC
-- Feature importance visualisation showing which variables drive AMAC'S rent prices
-- Raw data browser with live search, filter, and CSV download
-- End-to-end scraping pipeline targeting multiple Nigerian property listing platforms
+* **Data Source:** Custom-built scraper targeting Jiji, PropertyPro.ng, and Nigeria Property Centre.
+* **Pipeline:** Modular architecture covering scraping, cleaning, feature engineering, and model deployment.
+* **Modeling:** Comparative analysis between Linear Regression (Baseline) and Random Forest (Production).
+* **Deployment:** Interactive UI built with Streamlit and Plotly for real-time market intelligence.
 
 ---
 
-## 🚀 What Makes This Project Unique
+## Project Structure
 
-- Locally grounded — built entirely on live Abuja listing data, not a generic public dataset
-- Full pipeline ownership — from HTTP request and HTML parse to trained model and deployed app, every step is custom-built
-- Interprets the Nigerian market specifically — district-level encoding, Naira-denominated outputs, and FCT-aware premium flags (Maitama, Asokoro, Wuse II)
-- Produces actionable outputs, not just visualisations — the prediction page gives a concrete rent estimate plus an uncertainty range
-
----
-
-## 🧱 Tech Stack
-
-**App & Presentation**
-- Streamlit (multi-page app)
-- Plotly (interactive charts)
-
-**Data Collection**
-- requests
-- BeautifulSoup4
-- re (regex)
-
-**Data Processing & Modelling**
-- pandas
-- NumPy
-- scikit-learn (Random Forest, Linear Regression, preprocessing)
-- pickle (model serialisation)
-
-**Storage**
-- CSV (raw listings, cleaned listings, model outputs)
-
-**Environment**
-- python-dotenv
-
----
-
-## 🏗️ Architecture
-
-- A scraper module uses `requests` and `BeautifulSoup` to pull rental listings from property platforms, with `regex` handling field extraction from unstructured text
-- Raw listings are written to `data/raw_listings.csv` immediately after scraping, preserving the original data before any transformation
-- A cleaning and feature-engineering pipeline reads the raw CSV, imputes missing values, encodes categorical fields, and writes `data/clean_listings.csv`
-- Initial data contained extreme price outliers (up to ₦47B) and bedroom counts (up to 96). I implemented a domain-informed filter, capping bedrooms at 6 and price at ₦150M/annum. This reduced the Standard Deviation by 98%, creating a robust foundation for machine learning.
-- A training script reads the clean data, builds a Random Forest regressor, evaluates it on a held-out test set, and serialises the best model to `model/model.pkl`
-- The Streamlit app loads the clean CSV and the pickled model at startup and serves four pages: price predictor, EDA, market insights, and raw data browser
-
----
-
-## 📁 Project Structure
-
-```
-Abuja-Rental-Market-Prediction-With-Streamlit/
-├── scraper/
-│   ├── scraper.py          # requests + BeautifulSoup pipeline
-│   └── parser.py           # regex field extraction helpers
-│
-├── processing/
-│   ├── clean.py            # null handling, type casting, deduplication
-│   └── features.py         # feature engineering + train/test split
-│
-├── model/
-│   ├── train.py            # model training + evaluation
-│   ├── evaluate.py         # MAE, RMSE, R² reporting + plots
-│   └── model.pkl           # serialised model artifact
-│
-├── data/
-│   ├── raw_listings.csv    # scraped verbatim (never overwritten)
-│   └── clean_listings.csv  # typed, deduped, feature-engineered
-│
+```text
+Abuja-Rental-Prediction/
 ├── app/
-│   ├── main.py             # Streamlit entry point + shared loader
+│   ├── main.py             # Landing page and global config
 │   └── pages/
-│       ├── 1_predict.py    # rent price estimator
-│       ├── 2_eda.py        # exploratory data analysis
-│       ├── 3_insights.py   # market insights + feature importance
-│       └── 4_data.py       # raw data browser + CSV download
-│
-├── notebooks/
-│   └── exploration.ipynb   # EDA scratch pad
-│
-├── screenshots/
-│   └── demo.gif            # placeholder — add before publishing
-│
-├── requirements.txt
-├── .env.example            # template for environment variables
-├── .gitignore
-├── DATA.md                 # data source and field documentation
-├── LICENSE
+│       ├── 1_predict.py     # ML price estimation interface
+│       └── 2_dashboard.py   # Interactive market EDA
+├── scraper/
+│   ├── scraper.py          # BeautifulSoup collection scripts
+│   └── parser.py           # Regex-based field extraction
+├── processing/
+│   ├── clean.py            # Outlier removal and null handling
+│   └── features.py         # One-hot encoding and log transformations
+├── model/
+│   ├── train.py            # Training script for RF and LR
+│   ├── abuja_rent_model.pkl # Serialized Random Forest model
+│   └── feature_columns.pkl  # Required column order for inference
+├── data/
+│   ├── raw_listings.csv    # Original scraped data
+│   └── clean_listings.csv  # Final modeling dataset
 └── README.md
+
 ```
 
 ---
 
-## ⚙️ Installation
+## Model Performance
 
-### 1. Clone the repository
+The project compared a standard Linear Regression baseline against a Random Forest Regressor. Random Forest proved superior by capturing non-linear relationships, such as the disproportionate price jump seen in Tier 1 districts like Maitama and Asokoro compared to satellite towns.
+
+| Model | MAE (Log Scale) | RMSE (Log Scale) | R² Score |
+| --- | --- | --- | --- |
+| Linear Regression | 0.3798 | 0.5333 | 0.7174 |
+| **Random Forest** | **0.3475** | **0.4901** | **0.7613** |
+
+The Random Forest model explains **76.1%** of the variance in rental prices. Given that property value is often influenced by factors not present in web listings (e.g., finishing quality, road access, or security), this R² represents a strong predictive baseline for the AMAC market.
+
+---
+
+## Installation & Usage
+
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Abba-Onoja/Abuja-Rental-Prediction-With-Streamlit.git
 cd Abuja-Rental-Prediction-With-Streamlit
+
 ```
 
-### 2. Install dependencies
+### 2. Set Up Environment
 
 ```bash
 pip install -r requirements.txt
+
 ```
 
-### 3. Run the scraper
-
-```bash
-python scraper/scraper.py
-```
-
-This writes `data/raw/raw_listings_npc.csv`. Set `MAX_PAGES` inside the script to control how many listing pages to collect.
-
-### 4. Process the data and train the model
-
-```bash
-python processing/clean.py
-python processing/features.py
-python model/train.py
-```
-
-### 5. Launch the Streamlit app
+### 3. Run the Application
 
 ```bash
 streamlit run app/main.py
+
 ```
 
-The app will open at `http://localhost:8501`.
-
 ---
-
-## 📊 Data & Model Details
-
-
-- Listings scraped from PropertyPro.ng, Jiji.ng, and NigeriaPropertyCentre.com
-- Fields collected: price (₦/year), location (district + area), bedrooms, property type, listing URL, scraped timestamp
-- Key engineered features: `price_per_bedroom`, `is_premium_district` (binary flag for Maitama, Asokoro, Wuse), district label encoding, property type one-hot encoding, log-transformed target
-- Baseline model: Linear Regression
-- Core model: Random Forest Regressor (200 estimators, depth 10)
-- Evaluation: MAE, RMSE, and R² reported on an 80/20 stratified split
-- Model outputs are back-transformed from log scale to Naira before display
--model_training.ipynb:"The Random Forest Regressor outperformed the baseline Linear Regression model, achieving an $R^2$ of 0.761 compared to 0.717. The lower RMSE (0.490) indicates that the tree-based model was much better at handling the non-linear geographical premiums in the Abuja market (e.g., the exponential price jump in Tier 1 districts like Asokoro). While an $R^2$ of 76% is strong for scraped data, the remaining 24% of unexplained variance is likely hidden in features we couldn't scrape, such as exact square meterage, interior finish quality, and road accessibility
-
-> 📌 **Metrics placeholder** — update the table below after training on your collected data.
-
-| Model | MAE (₦) | RMSE (₦) | R² |
-|---|---|---|---|
-| Linear Regression | — | — | — |
-| Random Forest | — | — | — |
-
----
-
 ## 📸 Screenshots
 
-> 📸 **Placeholder**.
 
 ### Price Predictor
 
 ![Predict Page](screenshots/predict.png)
 
 ### EDA Dashboard
+![EDA Page](screenshots/dasboard.png)
 
 ![EDA Page](screenshots/eda.png)
 
-### Market Insights
-
-![Insights Page](screenshots/insights.png)
-
-### Raw Data Browser
-
-![Data Page](screenshots/data.png)
 
 ---
 
-## 💡 Future Improvements
+## Future Imporvements
 
-- Add scraping scheduler (e.g. APScheduler) to refresh data weekly without manual runs
-- Integrate an AMAC district choropleth map using Folium or Plotly Mapbox
-- Experiment with XGBoost and hyperparameter tuning via GridSearchCV
-- Export a PDF rent benchmark report directly from the Streamlit app
-- Add a listing anomaly detector to flag prices that deviate significantly from the district median
+* **Choropleth Mapping:** Integrate a GeoJSON map of Abuja to visualize price heatmaps by district.
+* **Automated Scraping:** Set up a GitHub Action to refresh the dataset weekly.
+* **Advanced Modeling:** Experiment with Gradient Boosting (XGBoost/LightGBM) and hyperparameter tuning.
 
----
+## Notes
 
-## 📌 Notes
+This project was built to demonstrate a full-stack data science workflow on a locally relevant problem. All data was collected specifically for this project; no pre-existing datasets were used.
 
-I built this as a portfolio project to demonstrate end-to-end data science skills on a locally relevant problem — the Nigerian property market. Everything from the scraper to the prediction interface is built from scratch, without pre-packaged datasets. The goal was to show the full lifecycle: collecting raw data, cleaning it, engineering meaningful features, training and evaluating a model, and making the outputs accessible through an interactive app.
+## License
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this code for personal or commercial purposes, provided you include the original copyright notice.
-
-See the [LICENSE](./LICENSE) file for full details.
+MIT License. See `LICENSE` for details.
