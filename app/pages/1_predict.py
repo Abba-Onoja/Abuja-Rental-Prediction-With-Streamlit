@@ -2,15 +2,20 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
+from pathlib import Path
 
-# Set page configuration
+BASE_DIR = Path(__file__).resolve().parent.parent
+
 st.set_page_config(page_title="Price Predictor | AMAC Rental Predictor", layout="wide")
 
 @st.cache_resource
 def load_model_assets():
+
+    model_path = BASE_DIR / "model" / "abuja_rent_model.pkl"
+    cols_path = BASE_DIR / "model" / "feature_columns.pkl"
     try:
-        model = joblib.load('abuja_rent_model.pkl')
-        feature_cols = joblib.load('feature_columns.pkl')
+        model = joblib.load(model_path)
+        feature_cols = joblib.load(cols_path)
         return model, feature_cols
     except Exception as e:
         st.error(f"Error loading model assets. Please ensure .pkl files are in the directory. Details: {e}")

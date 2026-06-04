@@ -27,26 +27,52 @@ The tool allows users to estimate fair market rent based on district, property t
 ## Project Structure
 
 ```text
-Abuja-Rental-Prediction/
+Abuja-Rental-Prediction-with-streamlit/
 ├── app/
-│   ├── main.py             # Landing page and global config
+│   ├── app.py            
+|   ├──abuja_rent_model.pkl
+|   ├──feature_columns.pkl
+|   ├──processed_abuja_rentals.csv
+|   ├──abuja_rental_master_v2.csv
 │   └── pages/
-│       ├── 1_predict.py     # ML price estimation interface
-│       └── 2_dashboard.py   # Interactive market EDA
-├── scraper/
-│   ├── scraper.py          # BeautifulSoup collection scripts
-│   └── parser.py           # Regex-based field extraction
-├── processing/
-│   ├── clean.py            # Outlier removal and null handling
-│   └── features.py         # One-hot encoding and log transformations
-├── model/
-│   ├── train.py            # Training script for RF and LR
-│   ├── abuja_rent_model.pkl # Serialized Random Forest model
-│   └── feature_columns.pkl  # Required column order for inference
+│       ├── 1_predict.py     
+│       └── 2_dashboard.py  
+|
 ├── data/
-│   ├── raw_listings.csv    # Original scraped data
-│   └── clean_listings.csv  # Final modeling dataset
-└── README.md
+│   ├── master 
+|   |   ├── abuja_rental_master_v2.csv
+|   |   ├── abuja_rental_master.csv
+|   |   └── processed_abuja_rentals.csv
+│   └── processed 
+|       ├── jiji_cleaned.csv
+|       ├── npc_cleaned.csv
+|       └── ppro_cleaned.csv
+|
+├── notebooks/
+│   ├── clean_jiji.ipynb            
+│   ├── clean_ppro.ipynb
+|   ├── clean.ipynb
+|   ├── eda.ipynb
+|   ├── feature_engineering.ipynb
+│   └── model_training.ipynb  
+|
+├── processing/           
+│   └── aggregator.py 
+|
+├── scraper/
+|   ├── jiji.py   # used for finding the number of pages on jiji.ng 
+│   ├── scraper.py 
+|   ├── scraper_ppro.py        
+│   └── scraper_jiji.py                   
+|
+├── screenshots/
+|   ├── dashboard.png 
+│   ├── eda.png
+│   └── predict.png
+|
+├── README.md
+|
+└── requirements.txt
 
 ```
 

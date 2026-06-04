@@ -1,13 +1,16 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+from pathlib import Path
 
+BASE_DIR = Path(__file__).resolve().parent.parent
 st.set_page_config(page_title="Market Dashboard | AMAC Rental Dashboard", layout="wide")
 
 @st.cache_data
 def load_data():
+    data_path = BASE_DIR / "abuja_rental_master_v2.csv"
     try:
-        df = pd.read_csv("abuja_rental_master_v2.csv")
+        df = pd.read_csv(data_path)
         
         df = df[df['Bedrooms'] <= 6]
         df = df[df['Price (Per Annum)'] <= 150_000_000]

@@ -1,6 +1,11 @@
 import streamlit as st
 from pathlib import Path
 
+
+
+BASE_DIR = Path(__file__).resolve().parent
+master_data_path = BASE_DIR / "abuja_rental_master_v2.csv"
+processed_data_path = BASE_DIR / "processed_abuja_rentals.csv"
 st.set_page_config(
     page_title="AMAC Rental Intelligence System",
     layout="wide",
@@ -34,8 +39,8 @@ def main():
     
     d_col1, d_col2 = st.columns(2)
     
-    master_data_path = Path("abuja_rental_master_v2.csv")
-    processed_data_path = Path("processed_abuja_rentals.csv")
+    master_data_path = BASE_DIR / "abuja_rental_master_v2.csv"
+    processed_data_path = BASE_DIR / "processed_abuja_rentals.csv"
 
     with d_col1:
         st.markdown("**Master Dataset**")
