@@ -11,8 +11,8 @@ st.set_page_config(page_title="Price Predictor | AMAC Rental Predictor", layout=
 @st.cache_resource
 def load_model_assets():
 
-    model_path = BASE_DIR / "model" / "abuja_rent_model.pkl"
-    cols_path = BASE_DIR / "model" / "feature_columns.pkl"
+    model_path = BASE_DIR /  "abuja_rent_model.pkl"
+    cols_path = BASE_DIR /"feature_columns.pkl"
     try:
         model = joblib.load(model_path)
         feature_cols = joblib.load(cols_path)
