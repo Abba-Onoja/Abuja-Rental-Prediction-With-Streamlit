@@ -10,7 +10,11 @@
 
 ![screenshot](screenshots/screenshot.jpg)
 
-Link: 
+### Link: 
+```bash 
+abuja-rental-prediction.streamlit.app/ 
+```
+
 > ⚠️ **Note:** First load may take 15–30 seconds as the app wakes up from inactivity (free tier). Refresh if needed!
 
 > ⚠️ **DISCLAIMER:** Estimates are based on listings scraped from third-party property portals for informational purposes only and do not constitute professional financial advice or guaranteed market valuations.
