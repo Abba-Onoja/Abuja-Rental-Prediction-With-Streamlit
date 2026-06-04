@@ -6,6 +6,10 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-orange)](https://scikit-learn.org/)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-green)](https://www.crummy.com/software/BeautifulSoup/)
 
+## Screenshot
+
+![screenshot](screenshots/screenshot.jpg)
+
 Link: 
 > ⚠️ **Note:** First load may take 15–30 seconds as the app wakes up from inactivity (free tier). Refresh if needed!
 
@@ -121,12 +125,12 @@ streamlit run app/main.py
 
 ### Price Predictor
 
-![Predict Page](screenshots/predict.png)
+![Predict Page](screenshots/predict.jpg)
 
 ### EDA Dashboard
-![EDA Page](screenshots/dasboard.png)
+![EDA Page](screenshots/dasboard.jpg)
 
-![EDA Page](screenshots/eda.png)
+![EDA Page](screenshots/eda.jpg)
 
 
 ---
