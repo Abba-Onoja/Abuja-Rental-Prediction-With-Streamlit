@@ -13,6 +13,8 @@
 Link: 
 > ⚠️ **Note:** First load may take 15–30 seconds as the app wakes up from inactivity (free tier). Refresh if needed!
 
+> ⚠️ **DISCLAIMER:** Estimates are based on listings scraped from third-party property portals for informational purposes only and do not constitute professional financial advice or guaranteed market valuations.
+
 This is an end-to-end project designed to bring transparency to the rental market in the Abuja Municipal Area Council (AMAC). It scrapes the collection of property listings from major Nigerian portals, cleans the data, and serves a Random Forest prediction model through a multipage Streamlit dashboard.
 
 The tool allows users to estimate fair market rent based on district, property type, and bedroom count, helping to bridge the information gap for tenants and real estate professionals in Nigeria's capital.
@@ -128,7 +130,7 @@ streamlit run app/main.py
 ![Predict Page](screenshots/predict.jpg)
 
 ### EDA Dashboard
-![EDA Page](screenshots/dasboard.jpg)
+![EDA Page](screenshots/dashboard.jpg)
 
 ![EDA Page](screenshots/eda.jpg)
 
