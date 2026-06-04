@@ -178,6 +178,7 @@ The app will open at `http://localhost:8501`.
 - Core model: Random Forest Regressor (200 estimators, depth 10)
 - Evaluation: MAE, RMSE, and R² reported on an 80/20 stratified split
 - Model outputs are back-transformed from log scale to Naira before display
+-model_training.ipynb:"The Random Forest Regressor outperformed the baseline Linear Regression model, achieving an $R^2$ of 0.761 compared to 0.717. The lower RMSE (0.490) indicates that the tree-based model was much better at handling the non-linear geographical premiums in the Abuja market (e.g., the exponential price jump in Tier 1 districts like Asokoro). While an $R^2$ of 76% is strong for scraped data, the remaining 24% of unexplained variance is likely hidden in features we couldn't scrape, such as exact square meterage, interior finish quality, and road accessibility
 
 > 📌 **Metrics placeholder** — update the table below after training on your collected data.
 
