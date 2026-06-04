@@ -117,6 +117,6 @@ if model and feature_cols:
                         value=segment
                     )
                 
-                st.info(f"Based on our Random Forest model, a {selected_bedrooms}-bedroom {selected_category} in {selected_district} is currently valued at approximately **₦{actual_prediction:,.0f}** per annum. This aligns with the {segment} tier of the Abuja real estate market.")
+                st.info(f"Based the Random Forest model, a {selected_bedrooms}-bedroom {selected_category} in {selected_district} is currently valued at approximately **₦{actual_prediction:,.0f}** per annum. This aligns with the {segment} tier of the Abuja real estate market.")
 else:
     st.warning("Please ensure the model files are present to use the predictor.")
